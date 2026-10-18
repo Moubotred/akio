@@ -9,5 +9,6 @@ jinja2
 pydantic
 pydantic_settings
 redis
+dotenv
 aiosqlite
 python-multipart
