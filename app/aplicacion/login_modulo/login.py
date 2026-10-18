@@ -53,6 +53,11 @@ async def ValidarSesionActivaImei(request:Request,payload: DynamicPayload):
     logger.info(f"[-] payload indefinido esctructura: {payload}")
 
 
+@router.post("/ObtieneVersionDisponible")
+async def ObtieneVersionDisponible(request:Request):
+    dat = await request.body()
+    logger.info(f"datos de actulizacion: {dat}")
+
 # @router.post("/terminar")
 # async def terminar(payload: TerminarPayload,db: AsyncSession = Depends(get_db)):
 
