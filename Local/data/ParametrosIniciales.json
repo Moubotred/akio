@@ -1,0 +1,29 @@
+{
+    "listadoDominio": [
+        {
+            "keyDominio": "LDS",
+            "nombre": "LUZDELSUR.COM.PE"
+        },
+        {
+            "keyDominio": "TEC",
+            "nombre": "TECSUR.LOCAL"
+        },
+        {
+            "keyDominio": "GCI",
+            "nombre": "GCI.LOCAL"
+        },
+        {
+            "keyDominio": "ADS",
+            "nombre": "ANDES.LOCAL"
+        },
+        {
+            "keyDominio": "EXT",
+            "nombre": "EXTERNOSLDS.COM"
+        }
+    ],
+    "mostrarRecuerdame": true,
+    "ultimaEmpresaLogea": "2  ",
+    "ultimaEmpresaTrabaja": "7  ",
+    "ultimoDominio": "EXT",
+    "ultimoUsuario": "TGUISADO"
+}

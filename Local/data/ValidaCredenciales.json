@@ -1,0 +1,464 @@
+{
+    "token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJaaWtkWHRFRmtkTDhXcDJXR1Azb3Zva2ZYYzFmM0tXR2JWWXduclRHTWcyOHhUaDR1ZCIsImlhdCI6IjE3NjQ0MzMxODUiLCJleHAiOiIxNzk1OTY5MTg1In0.Z91JC8G_WB1ncJ5WLOKz0nSjOchTL504YapswVLeE7o",
+    "aplicaciones": [
+        {
+            "paquete": "com.luzdelsur.proydist.recuperoencampo",
+            "nombre": "Recupero de Materiales en Campo",
+            "version": "1.0.25",
+            "obligatorio": true,
+            "idPlugin": "202480",
+            "esFavorito": false,
+            "esVisible": true,
+            "url": null
+        },
+        {
+            "paquete": "com.luzdelsur.sso.autoevaluacion",
+            "nombre": "Autoevaluación",
+            "version": "1.0.4",
+            "obligatorio": true,
+            "idPlugin": "202535",
+            "esFavorito": false,
+            "esVisible": true,
+            "url": null
+        },
+        {
+            "paquete": "com.luzdelsur.actmant.ui",
+            "nombre": "Actividades de Mantenimiento",
+            "version": "3.0.3",
+            "obligatorio": true,
+            "idPlugin": "201892",
+            "esFavorito": false,
+            "esVisible": true,
+            "url": null
+        },
+        {
+            "paquete": "com.luzdelsur.consumoencampo",
+            "nombre": "Consumo de material y mano de obra en campo",
+            "version": "1.0.71",
+            "obligatorio": true,
+            "idPlugin": "202067",
+            "esFavorito": false,
+            "esVisible": true,
+            "url": null
+        },
+        {
+            "paquete": "com.luzdelsur.inspecciondeactivos",
+            "nombre": "Inspección de Activos",
+            "version": "1.3.4",
+            "obligatorio": true,
+            "idPlugin": "202154",
+            "esFavorito": false,
+            "esVisible": true,
+            "url": null
+        },
+        {
+            "paquete": "com.luzdelsur.tecnico.redes.sigred",
+            "nombre": "GIS",
+            "version": "1.0.9",
+            "obligatorio": true,
+            "idPlugin": "202274",
+            "esFavorito": false,
+            "esVisible": true,
+            "url": null
+        },
+        {
+            "paquete": "com.luzdelsur.tecnico.sigred.gis",
+            "nombre": "Visualización de Redes Eléctricas",
+            "version": "1.0.4",
+            "obligatorio": true,
+            "idPlugin": "202426",
+            "esFavorito": false,
+            "esVisible": true,
+            "url": null
+        },
+        {
+            "paquete": "com.luzdelsur.form.generico",
+            "nombre": "Formulario Generico CEO",
+            "version": "1.0.11",
+            "obligatorio": true,
+            "idPlugin": "202433",
+            "esFavorito": false,
+            "esVisible": true,
+            "url": null
+        },
+        {
+            "paquete": "com.luzdelsur.proydist.sad",
+            "nombre": "SAD",
+            "version": "2.7.2",
+            "obligatorio": false,
+            "idPlugin": "202469",
+            "esFavorito": false,
+            "esVisible": true,
+            "url": null
+        },
+        {
+            "paquete": "com.luzdelsur.proydist.sad.avanceobra",
+            "nombre": "Avance de Obra Capataz",
+            "version": "1.2.4p",
+            "obligatorio": true,
+            "idPlugin": "202490",
+            "esFavorito": false,
+            "esVisible": false,
+            "url": null
+        },
+        {
+            "paquete": "com.luzdelsur.proydist.califobra",
+            "nombre": "Calificación de Obra",
+            "version": "1.0.3p",
+            "obligatorio": true,
+            "idPlugin": "202497",
+            "esFavorito": false,
+            "esVisible": false,
+            "url": null
+        },
+        {
+            "paquete": "com.luzdelsur.proydist.ceocapataz",
+            "nombre": "CEO Capataz",
+            "version": "1.0.6",
+            "obligatorio": true,
+            "idPlugin": "202505",
+            "esFavorito": false,
+            "esVisible": true,
+            "url": null
+        },
+        {
+            "paquete": "com.luzdelsur.proydist.sad.camara",
+            "nombre": "SAD Cámara",
+            "version": "1.0.0p",
+            "obligatorio": true,
+            "idPlugin": "202538",
+            "esFavorito": false,
+            "esVisible": true,
+            "url": null
+        },
+        {
+            "paquete": "com.luzdelsur.consumoencampo.aux",
+            "nombre": "Consumo En Campo (Aux)",
+            "version": "1.0.23",
+            "obligatorio": true,
+            "idPlugin": "202565",
+            "esFavorito": false,
+            "esVisible": true,
+            "url": null
+        },
+        {
+            "paquete": "com.luzdelsur.bt.inspecciones.ui",
+            "nombre": "Inspecciones de Activos - Movil",
+            "version": "1.6.6",
+            "obligatorio": true,
+            "idPlugin": "201870",
+            "esFavorito": false,
+            "esVisible": true,
+            "url": null
+        },
+        {
+            "paquete": "com.luzdelsur.proydist.gestioncantproy",
+            "nombre": "Control en ejecución de Orden de Trabajo (OT)",
+            "version": "1.1.6",
+            "obligatorio": true,
+            "idPlugin": "202474",
+            "esFavorito": false,
+            "esVisible": true,
+            "url": null
+        },
+        {
+            "paquete": "com.luzdelsur.gestioncliente.modificacion.manser",
+            "nombre": "Manser App",
+            "version": "1.3.11",
+            "obligatorio": true,
+            "idPlugin": "300406",
+            "esFavorito": false,
+            "esVisible": true,
+            "url": null
+        }
+    ],
+    "discoServidorLog": "C",
+    "pathServidorLog": "-Inetpub-wwwroot-Plataforma-Movil-Versiones-Logs",
+    "diasRestantesParaCaducarClave": 53,
+    "sesionServicio": {
+        "login": {
+            "idEmpresa": 2,
+            "usuario": "TGUISADO",
+            "dominio": "EXTERNOSLDS.COM",
+            "servidor": null,
+            "servidorRemoto": null,
+            "rutaAssemblies": null,
+            "servidorWCF": "ldswcf.luzdelsur.com.pe",
+            "keyDominio": "EXT"
+        },
+        "idSesion": 302400667,
+        "usuario": {
+            "nombre": "TONY GUISADO VAZQUEZ",
+            "ficha": "",
+            "cr": null,
+            "email": "trgv@2.com",
+            "idEmpresaLogeo": 2,
+            "idEmpresaTrabaja": 7,
+            "usuarioLogeo": "TGUISADO",
+            "rol": [
+                "TRGV"
+            ]
+        },
+        "idDispositivo": "9657cc54ad670e5b",
+        "tokenId": "16491871",
+        "ipCliente": "10.0.3.27",
+        "usuarioHost": null,
+        "accesoBD": [
+            {
+                "Escritura": false,
+                "Lectura": false,
+                "Tag": "accion"
+            },
+            {
+                "Escritura": false,
+                "Lectura": false,
+                "Tag": "admscompensa"
+            },
+            {
+                "Escritura": false,
+                "Lectura": false,
+                "Tag": "bizlinks_cpe"
+            },
+            {
+                "Escritura": false,
+                "Lectura": false,
+                "Tag": "bizlinks_cpe21"
+            },
+            {
+                "Escritura": false,
+                "Lectura": false,
+                "Tag": "bizlinks_cre"
+            },
+            {
+                "Escritura": false,
+                "Lectura": false,
+                "Tag": "bizlinks_cre21"
+            },
+            {
+                "Escritura": false,
+                "Lectura": false,
+                "Tag": "calpro"
+            },
+            {
+                "Escritura": true,
+                "Lectura": true,
+                "Tag": "clientes"
+            },
+            {
+                "Escritura": true,
+                "Lectura": true,
+                "Tag": "clientesprd"
+            },
+            {
+                "Escritura": false,
+                "Lectura": false,
+                "Tag": "controller"
+            },
+            {
+                "Escritura": false,
+                "Lectura": false,
+                "Tag": "dbejeremsifco"
+            },
+            {
+                "Escritura": false,
+                "Lectura": false,
+                "Tag": "dbsac1"
+            },
+            {
+                "Escritura": true,
+                "Lectura": true,
+                "Tag": "dbtecnica"
+            },
+            {
+                "Escritura": false,
+                "Lectura": false,
+                "Tag": "dwh"
+            },
+            {
+                "Escritura": false,
+                "Lectura": false,
+                "Tag": "ejeremedesifco"
+            },
+            {
+                "Escritura": false,
+                "Lectura": false,
+                "Tag": "ejeremldssifco"
+            },
+            {
+                "Escritura": false,
+                "Lectura": false,
+                "Tag": "ejeremsifco"
+            },
+            {
+                "Escritura": false,
+                "Lectura": false,
+                "Tag": "ejeremtecnico"
+            },
+            {
+                "Escritura": false,
+                "Lectura": false,
+                "Tag": "ejeremvbconftp"
+            },
+            {
+                "Escritura": false,
+                "Lectura": false,
+                "Tag": "filemanager"
+            },
+            {
+                "Escritura": false,
+                "Lectura": false,
+                "Tag": "gislds1"
+            },
+            {
+                "Escritura": false,
+                "Lectura": false,
+                "Tag": "gislds2"
+            },
+            {
+                "Escritura": false,
+                "Lectura": false,
+                "Tag": "gisunifilares"
+            },
+            {
+                "Escritura": false,
+                "Lectura": false,
+                "Tag": "helpdesk"
+            },
+            {
+                "Escritura": false,
+                "Lectura": false,
+                "Tag": "isotools"
+            },
+            {
+                "Escritura": false,
+                "Lectura": false,
+                "Tag": "itechene"
+            },
+            {
+                "Escritura": false,
+                "Lectura": false,
+                "Tag": "noticias"
+            },
+            {
+                "Escritura": false,
+                "Lectura": false,
+                "Tag": "oasyshdbadms"
+            },
+            {
+                "Escritura": false,
+                "Lectura": false,
+                "Tag": "oasyshdbadms1"
+            },
+            {
+                "Escritura": false,
+                "Lectura": false,
+                "Tag": "oasyshdbadms2"
+            },
+            {
+                "Escritura": false,
+                "Lectura": false,
+                "Tag": "oasyshdbadms3"
+            },
+            {
+                "Escritura": false,
+                "Lectura": false,
+                "Tag": "odt22"
+            },
+            {
+                "Escritura": false,
+                "Lectura": false,
+                "Tag": "openfts"
+            },
+            {
+                "Escritura": false,
+                "Lectura": false,
+                "Tag": "openfts_edk"
+            },
+            {
+                "Escritura": false,
+                "Lectura": false,
+                "Tag": "openfts_lds"
+            },
+            {
+                "Escritura": false,
+                "Lectura": false,
+                "Tag": "poweron"
+            },
+            {
+                "Escritura": false,
+                "Lectura": false,
+                "Tag": "qfiniti"
+            },
+            {
+                "Escritura": false,
+                "Lectura": false,
+                "Tag": "sapeam"
+            },
+            {
+                "Escritura": false,
+                "Lectura": false,
+                "Tag": "sca_tempus"
+            },
+            {
+                "Escritura": false,
+                "Lectura": false,
+                "Tag": "scadanet"
+            },
+            {
+                "Escritura": true,
+                "Lectura": true,
+                "Tag": "seguridadxnear"
+            },
+            {
+                "Escritura": true,
+                "Lectura": true,
+                "Tag": "sifco"
+            },
+            {
+                "Escritura": false,
+                "Lectura": false,
+                "Tag": "sifcope"
+            },
+            {
+                "Escritura": false,
+                "Lectura": false,
+                "Tag": "sifcorhnet"
+            },
+            {
+                "Escritura": false,
+                "Lectura": false,
+                "Tag": "stgdata"
+            },
+            {
+                "Escritura": false,
+                "Lectura": false,
+                "Tag": "vasist"
+            },
+            {
+                "Escritura": false,
+                "Lectura": false,
+                "Tag": "vbconftp"
+            },
+            {
+                "Escritura": false,
+                "Lectura": false,
+                "Tag": "vbftp"
+            },
+            {
+                "Escritura": false,
+                "Lectura": false,
+                "Tag": "vbrhftp"
+            },
+            {
+                "Escritura": true,
+                "Lectura": true,
+                "Tag": "xnear"
+            }
+        ],
+        "TokenSesion": null
+    },
+    "infoPlataforma": null,
+    "rastreaEquipo": true,
+    "tiempoRastreo": 5,
+    "requiereMFA": false
+}

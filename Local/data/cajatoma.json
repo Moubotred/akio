@@ -1,0 +1,540 @@
+[
+    {
+        "codigo": 1,
+        "descripcion": "Electrizamiento inicial C. Toma",
+        "idValor": null,
+        "indicador": "ctelecinicajatoma",
+        "opciones": [
+            {
+                "codigo": 1,
+                "descParent": "ctelecinicajatoma",
+                "descripcion": "",
+                "parent": 1
+            }
+        ],
+        "orden": "10",
+        "parent": null,
+        "valor": null
+    },
+    {
+        "codigo": 2,
+        "descripcion": "Estado tapa toma",
+        "idValor": null,
+        "indicador": "ctestadotapatoma",
+        "opciones": [
+            {
+                "codigo": 2,
+                "descParent": "ctestadotapatoma",
+                "descripcion": "",
+                "parent": 2
+            },
+            {
+                "codigo": 3,
+                "descParent": "ctestadotapatoma",
+                "descripcion": "Buen estado",
+                "parent": 2
+            },
+            {
+                "codigo": 4,
+                "descParent": "ctestadotapatoma",
+                "descripcion": "Sin chapa o mal estado",
+                "parent": 2
+            },
+            {
+                "codigo": 5,
+                "descParent": "ctestadotapatoma",
+                "descripcion": "Expuesta",
+                "parent": 2
+            },
+            {
+                "codigo": 6,
+                "descParent": "ctestadotapatoma",
+                "descripcion": "Tapa corroida",
+                "parent": 2
+            },
+            {
+                "codigo": 7,
+                "descParent": "ctestadotapatoma",
+                "descripcion": "Sin tapa",
+                "parent": 2
+            },
+            {
+                "codigo": 8,
+                "descParent": "ctestadotapatoma",
+                "descripcion": "Otros",
+                "parent": 2
+            }
+        ],
+        "orden": "20",
+        "parent": null,
+        "valor": null
+    },
+    {
+        "codigo": 3,
+        "descripcion": "Tipo caja toma",
+        "idValor": null,
+        "indicador": "cttipocajatoma",
+        "opciones": [
+            {
+                "codigo": 9,
+                "descParent": "cttipocajatoma",
+                "descripcion": "",
+                "parent": 3
+            },
+            {
+                "codigo": 10,
+                "descParent": "cttipocajatoma",
+                "descripcion": "L",
+                "parent": 3
+            },
+            {
+                "codigo": 11,
+                "descParent": "cttipocajatoma",
+                "descripcion": "F1",
+                "parent": 3
+            },
+            {
+                "codigo": 12,
+                "descParent": "cttipocajatoma",
+                "descripcion": "T-30",
+                "parent": 3
+            },
+            {
+                "codigo": 13,
+                "descParent": "cttipocajatoma",
+                "descripcion": "TC-30",
+                "parent": 3
+            },
+            {
+                "codigo": 14,
+                "descParent": "cttipocajatoma",
+                "descripcion": "No tiene",
+                "parent": 3
+            },
+            {
+                "codigo": 15,
+                "descParent": "cttipocajatoma",
+                "descripcion": "F2",
+                "parent": 3
+            },
+            {
+                "codigo": 16,
+                "descParent": "cttipocajatoma",
+                "descripcion": "Caja lonchera",
+                "parent": 3
+            },
+            {
+                "codigo": 17,
+                "descParent": "cttipocajatoma",
+                "descripcion": "LTT",
+                "parent": 3
+            },
+            {
+                "codigo": 18,
+                "descParent": "cttipocajatoma",
+                "descripcion": "F3",
+                "parent": 3
+            },
+            {
+                "codigo": 19,
+                "descParent": "cttipocajatoma",
+                "descripcion": "LT",
+                "parent": 3
+            },
+            {
+                "codigo": 20,
+                "descParent": "cttipocajatoma",
+                "descripcion": "LR",
+                "parent": 3
+            },
+            {
+                "codigo": 21,
+                "descParent": "cttipocajatoma",
+                "descripcion": "F4",
+                "parent": 3
+            },
+            {
+                "codigo": 22,
+                "descParent": "cttipocajatoma",
+                "descripcion": "Otros",
+                "parent": 3
+            }
+        ],
+        "orden": "30",
+        "parent": null,
+        "valor": null
+    },
+    {
+        "codigo": 4,
+        "descripcion": "Estado caja toma",
+        "idValor": null,
+        "indicador": "ctestadocajatoma",
+        "opciones": [
+            {
+                "codigo": 23,
+                "descParent": "ctestadocajatoma",
+                "descripcion": "",
+                "parent": 4
+            },
+            {
+                "codigo": 24,
+                "descParent": "ctestadocajatoma",
+                "descripcion": "Buen estado",
+                "parent": 4
+            },
+            {
+                "codigo": 25,
+                "descParent": "ctestadocajatoma",
+                "descripcion": "Caja mal estado (Descuadrada, Golpeada o Doblada)",
+                "parent": 4
+            },
+            {
+                "codigo": 26,
+                "descParent": "ctestadocajatoma",
+                "descripcion": "Corroida",
+                "parent": 4
+            },
+            {
+                "codigo": 27,
+                "descParent": "ctestadocajatoma",
+                "descripcion": "Expuesta (parte de la caja expuesta)",
+                "parent": 4
+            },
+            {
+                "codigo": 28,
+                "descParent": "ctestadocajatoma",
+                "descripcion": "Baja altura (raz del suelo)",
+                "parent": 4
+            }
+        ],
+        "orden": "40",
+        "parent": null,
+        "valor": null
+    },
+    {
+        "codigo": 5,
+        "descripcion": "Altura caja Toma (respecto al piso) en \"cm\"",
+        "idValor": null,
+        "indicador": "ctalturacajatoma",
+        "opciones": [
+            {
+                "codigo": 29,
+                "descParent": "ctalturacajatoma",
+                "descripcion": "",
+                "parent": 5
+            }
+        ],
+        "orden": "50",
+        "parent": null,
+        "valor": null
+    },
+    {
+        "codigo": 6,
+        "descripcion": "Tipo de protección C. Toma",
+        "idValor": null,
+        "indicador": "cttipoproteccajatoma",
+        "opciones": [
+            {
+                "codigo": 30,
+                "descParent": "cttipoproteccajatoma",
+                "descripcion": "",
+                "parent": 6
+            },
+            {
+                "codigo": 31,
+                "descParent": "cttipoproteccajatoma",
+                "descripcion": "Loza",
+                "parent": 6
+            },
+            {
+                "codigo": 32,
+                "descParent": "cttipoproteccajatoma",
+                "descripcion": "Base unipolar porta fusible",
+                "parent": 6
+            },
+            {
+                "codigo": 33,
+                "descParent": "cttipoproteccajatoma",
+                "descripcion": "ITM (Térmico)",
+                "parent": 6
+            }
+        ],
+        "orden": "60",
+        "parent": null,
+        "valor": null
+    },
+    {
+        "codigo": 7,
+        "descripcion": "Estado de la protección C. Toma",
+        "idValor": null,
+        "indicador": "ctestadoproteccion",
+        "opciones": [
+            {
+                "codigo": 34,
+                "descParent": "ctestadoproteccion",
+                "descripcion": "",
+                "parent": 7
+            },
+            {
+                "codigo": 35,
+                "descParent": "ctestadoproteccion",
+                "descripcion": "Bueno",
+                "parent": 7
+            },
+            {
+                "codigo": 36,
+                "descParent": "ctestadoproteccion",
+                "descripcion": "Quemado, recalentado",
+                "parent": 7
+            },
+            {
+                "codigo": 37,
+                "descParent": "ctestadoproteccion",
+                "descripcion": "Sobredimensionado",
+                "parent": 7
+            },
+            {
+                "codigo": 38,
+                "descParent": "ctestadoproteccion",
+                "descripcion": "Sin protección",
+                "parent": 7
+            },
+            {
+                "codigo": 39,
+                "descParent": "ctestadoproteccion",
+                "descripcion": "Puenteado",
+                "parent": 7
+            },
+            {
+                "codigo": 40,
+                "descParent": "ctestadoproteccion",
+                "descripcion": "Sin fijación",
+                "parent": 7
+            }
+        ],
+        "orden": "70",
+        "parent": null,
+        "valor": null
+    },
+    {
+        "codigo": 8,
+        "descripcion": "Electrizamiento Final C. Toma",
+        "idValor": null,
+        "indicador": "ctelecfincajatoma",
+        "opciones": [
+            {
+                "codigo": 41,
+                "descParent": "ctelecfincajatoma",
+                "descripcion": "",
+                "parent": 8
+            }
+        ],
+        "orden": "80",
+        "parent": null,
+        "valor": null
+    },
+    {
+        "codigo": 9,
+        "descripcion": "Ubicación de Caja Toma",
+        "idValor": null,
+        "indicador": "ctubicacioncajatoma",
+        "opciones": [
+            {
+                "codigo": 42,
+                "descParent": "ctubicacioncajatoma",
+                "descripcion": "",
+                "parent": 9
+            },
+            {
+                "codigo": 43,
+                "descParent": "ctubicacioncajatoma",
+                "descripcion": "Externo Fachada",
+                "parent": 9
+            },
+            {
+                "codigo": 44,
+                "descParent": "ctubicacioncajatoma",
+                "descripcion": "Externo Murete",
+                "parent": 9
+            },
+            {
+                "codigo": 45,
+                "descParent": "ctubicacioncajatoma",
+                "descripcion": "Interno accesible",
+                "parent": 9
+            },
+            {
+                "codigo": 46,
+                "descParent": "ctubicacioncajatoma",
+                "descripcion": "Interno no accesible",
+                "parent": 9
+            },
+            {
+                "codigo": 47,
+                "descParent": "ctubicacioncajatoma",
+                "descripcion": "Fuera límite propiedad",
+                "parent": 9
+            },
+            {
+                "codigo": 48,
+                "descParent": "ctubicacioncajatoma",
+                "descripcion": "En tablero (SED)",
+                "parent": 9
+            }
+        ],
+        "orden": "90",
+        "parent": null,
+        "valor": null
+    },
+    {
+        "codigo": 10,
+        "descripcion": "Capacidad del Sis. Protec. Caja Toma",
+        "idValor": null,
+        "indicador": "ctcapsistprotecctoma",
+        "opciones": [
+            {
+                "codigo": 49,
+                "descParent": "ctcapsistprotecctoma",
+                "descripcion": "",
+                "parent": 10
+            }
+        ],
+        "orden": "100",
+        "parent": null,
+        "valor": null
+    },
+    {
+        "codigo": 11,
+        "descripcion": "Tipo de acometida de la C. Toma",
+        "idValor": null,
+        "indicador": "cttipoacometidactoma",
+        "opciones": [
+            {
+                "codigo": 50,
+                "descParent": "cttipoacometidactoma",
+                "descripcion": "",
+                "parent": 11
+            },
+            {
+                "codigo": 51,
+                "descParent": "cttipoacometidactoma",
+                "descripcion": "NYY",
+                "parent": 11
+            },
+            {
+                "codigo": 52,
+                "descParent": "cttipoacometidactoma",
+                "descripcion": "NKY",
+                "parent": 11
+            },
+            {
+                "codigo": 53,
+                "descParent": "cttipoacometidactoma",
+                "descripcion": "N2XY",
+                "parent": 11
+            },
+            {
+                "codigo": 54,
+                "descParent": "cttipoacometidactoma",
+                "descripcion": "Concentrico",
+                "parent": 11
+            },
+            {
+                "codigo": 55,
+                "descParent": "cttipoacometidactoma",
+                "descripcion": "Otros",
+                "parent": 11
+            }
+        ],
+        "orden": "110",
+        "parent": null,
+        "valor": null
+    },
+    {
+        "codigo": 12,
+        "descripcion": "Estado de acometida de la C. Toma",
+        "idValor": null,
+        "indicador": "ctestadoacometidactoma",
+        "opciones": [
+            {
+                "codigo": 56,
+                "descParent": "ctestadoacometidactoma",
+                "descripcion": "",
+                "parent": 12
+            },
+            {
+                "codigo": 57,
+                "descParent": "ctestadoacometidactoma",
+                "descripcion": "Buen estado",
+                "parent": 12
+            },
+            {
+                "codigo": 58,
+                "descParent": "ctestadoacometidactoma",
+                "descripcion": "Recalentada",
+                "parent": 12
+            },
+            {
+                "codigo": 59,
+                "descParent": "ctestadoacometidactoma",
+                "descripcion": "Expuesta sin protección",
+                "parent": 12
+            },
+            {
+                "codigo": 60,
+                "descParent": "ctestadoacometidactoma",
+                "descripcion": "Empatada o entorchada",
+                "parent": 12
+            }
+        ],
+        "orden": "120",
+        "parent": null,
+        "valor": null
+    },
+    {
+        "codigo": 13,
+        "descripcion": "Tipo Material Acometida Caja Toma",
+        "idValor": null,
+        "indicador": "cttpomatacomctoma",
+        "opciones": [
+            {
+                "codigo": 61,
+                "descParent": "cttpomatacomctoma",
+                "descripcion": "",
+                "parent": 13
+            },
+            {
+                "codigo": 62,
+                "descParent": "cttpomatacomctoma",
+                "descripcion": "Aluminio",
+                "parent": 13
+            },
+            {
+                "codigo": 63,
+                "descParent": "cttpomatacomctoma",
+                "descripcion": "Cobre",
+                "parent": 13
+            }
+        ],
+        "orden": "130",
+        "parent": null,
+        "valor": null
+    },
+    {
+        "codigo": 14,
+        "descripcion": "Observacion general Caja Toma",
+        "idValor": null,
+        "indicador": "ctobsgencajatoma",
+        "opciones": [
+            {
+                "codigo": 64,
+                "descParent": "ctobsgencajatoma",
+                "descripcion": "",
+                "parent": 14
+            }
+        ],
+        "orden": "140",
+        "parent": null,
+        "valor": null
+    }
+]

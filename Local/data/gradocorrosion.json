@@ -1,0 +1,1971 @@
+{
+    "listadoGradoCorrosion": [
+        {
+            "gradoCorrosion": "S",
+            "idGradoCorrosion": "1",
+            "varillaConPerdida": "0",
+            "varillaExpuesta": "0",
+            "varillaSeccionada": "0"
+        },
+        {
+            "gradoCorrosion": "B2",
+            "idGradoCorrosion": "2",
+            "varillaConPerdida": "0",
+            "varillaExpuesta": "1",
+            "varillaSeccionada": "0"
+        },
+        {
+            "gradoCorrosion": "B2",
+            "idGradoCorrosion": "3",
+            "varillaConPerdida": "0",
+            "varillaExpuesta": "2",
+            "varillaSeccionada": "0"
+        },
+        {
+            "gradoCorrosion": "B2",
+            "idGradoCorrosion": "4",
+            "varillaConPerdida": "0",
+            "varillaExpuesta": "3",
+            "varillaSeccionada": "0"
+        },
+        {
+            "gradoCorrosion": "B2",
+            "idGradoCorrosion": "5",
+            "varillaConPerdida": "0",
+            "varillaExpuesta": "4",
+            "varillaSeccionada": "0"
+        },
+        {
+            "gradoCorrosion": "B2",
+            "idGradoCorrosion": "6",
+            "varillaConPerdida": "0",
+            "varillaExpuesta": "5",
+            "varillaSeccionada": "0"
+        },
+        {
+            "gradoCorrosion": "B2",
+            "idGradoCorrosion": "7",
+            "varillaConPerdida": "0",
+            "varillaExpuesta": "6",
+            "varillaSeccionada": "0"
+        },
+        {
+            "gradoCorrosion": "C",
+            "idGradoCorrosion": "8",
+            "varillaConPerdida": "0",
+            "varillaExpuesta": "0 - Base con rajaduras",
+            "varillaSeccionada": "0"
+        },
+        {
+            "gradoCorrosion": "B1",
+            "idGradoCorrosion": "9",
+            "varillaConPerdida": "1",
+            "varillaExpuesta": "0",
+            "varillaSeccionada": "0"
+        },
+        {
+            "gradoCorrosion": "B1",
+            "idGradoCorrosion": "10",
+            "varillaConPerdida": "1",
+            "varillaExpuesta": "1",
+            "varillaSeccionada": "0"
+        },
+        {
+            "gradoCorrosion": "B1",
+            "idGradoCorrosion": "11",
+            "varillaConPerdida": "1",
+            "varillaExpuesta": "2",
+            "varillaSeccionada": "0"
+        },
+        {
+            "gradoCorrosion": "B1",
+            "idGradoCorrosion": "12",
+            "varillaConPerdida": "1",
+            "varillaExpuesta": "3",
+            "varillaSeccionada": "0"
+        },
+        {
+            "gradoCorrosion": "B1",
+            "idGradoCorrosion": "13",
+            "varillaConPerdida": "1",
+            "varillaExpuesta": "4",
+            "varillaSeccionada": "0"
+        },
+        {
+            "gradoCorrosion": "B1",
+            "idGradoCorrosion": "14",
+            "varillaConPerdida": "1",
+            "varillaExpuesta": "5",
+            "varillaSeccionada": "0"
+        },
+        {
+            "gradoCorrosion": "B1",
+            "idGradoCorrosion": "15",
+            "varillaConPerdida": "1",
+            "varillaExpuesta": "6",
+            "varillaSeccionada": "0"
+        },
+        {
+            "gradoCorrosion": "B1",
+            "idGradoCorrosion": "16",
+            "varillaConPerdida": "1",
+            "varillaExpuesta": "0 - Base con rajaduras",
+            "varillaSeccionada": "0"
+        },
+        {
+            "gradoCorrosion": "B1",
+            "idGradoCorrosion": "17",
+            "varillaConPerdida": "2",
+            "varillaExpuesta": "0",
+            "varillaSeccionada": "0"
+        },
+        {
+            "gradoCorrosion": "B1",
+            "idGradoCorrosion": "18",
+            "varillaConPerdida": "2",
+            "varillaExpuesta": "1",
+            "varillaSeccionada": "0"
+        },
+        {
+            "gradoCorrosion": "B1",
+            "idGradoCorrosion": "19",
+            "varillaConPerdida": "2",
+            "varillaExpuesta": "2",
+            "varillaSeccionada": "0"
+        },
+        {
+            "gradoCorrosion": "B1",
+            "idGradoCorrosion": "20",
+            "varillaConPerdida": "2",
+            "varillaExpuesta": "3",
+            "varillaSeccionada": "0"
+        },
+        {
+            "gradoCorrosion": "B1",
+            "idGradoCorrosion": "21",
+            "varillaConPerdida": "2",
+            "varillaExpuesta": "4",
+            "varillaSeccionada": "0"
+        },
+        {
+            "gradoCorrosion": "B1",
+            "idGradoCorrosion": "22",
+            "varillaConPerdida": "2",
+            "varillaExpuesta": "5",
+            "varillaSeccionada": "0"
+        },
+        {
+            "gradoCorrosion": "B1",
+            "idGradoCorrosion": "23",
+            "varillaConPerdida": "2",
+            "varillaExpuesta": "6",
+            "varillaSeccionada": "0"
+        },
+        {
+            "gradoCorrosion": "B1",
+            "idGradoCorrosion": "24",
+            "varillaConPerdida": "2",
+            "varillaExpuesta": "0 - Base con rajaduras",
+            "varillaSeccionada": "0"
+        },
+        {
+            "gradoCorrosion": "B1",
+            "idGradoCorrosion": "25",
+            "varillaConPerdida": "3",
+            "varillaExpuesta": "0",
+            "varillaSeccionada": "0"
+        },
+        {
+            "gradoCorrosion": "B1",
+            "idGradoCorrosion": "26",
+            "varillaConPerdida": "3",
+            "varillaExpuesta": "1",
+            "varillaSeccionada": "0"
+        },
+        {
+            "gradoCorrosion": "B1",
+            "idGradoCorrosion": "27",
+            "varillaConPerdida": "3",
+            "varillaExpuesta": "2",
+            "varillaSeccionada": "0"
+        },
+        {
+            "gradoCorrosion": "B1",
+            "idGradoCorrosion": "28",
+            "varillaConPerdida": "3",
+            "varillaExpuesta": "3",
+            "varillaSeccionada": "0"
+        },
+        {
+            "gradoCorrosion": "B1",
+            "idGradoCorrosion": "29",
+            "varillaConPerdida": "3",
+            "varillaExpuesta": "4",
+            "varillaSeccionada": "0"
+        },
+        {
+            "gradoCorrosion": "B1",
+            "idGradoCorrosion": "30",
+            "varillaConPerdida": "3",
+            "varillaExpuesta": "5",
+            "varillaSeccionada": "0"
+        },
+        {
+            "gradoCorrosion": "B1",
+            "idGradoCorrosion": "31",
+            "varillaConPerdida": "3",
+            "varillaExpuesta": "6",
+            "varillaSeccionada": "0"
+        },
+        {
+            "gradoCorrosion": "B1",
+            "idGradoCorrosion": "32",
+            "varillaConPerdida": "3",
+            "varillaExpuesta": "0 - Base con rajaduras",
+            "varillaSeccionada": "0"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "33",
+            "varillaConPerdida": "4",
+            "varillaExpuesta": "0",
+            "varillaSeccionada": "0"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "34",
+            "varillaConPerdida": "4",
+            "varillaExpuesta": "1",
+            "varillaSeccionada": "0"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "35",
+            "varillaConPerdida": "4",
+            "varillaExpuesta": "2",
+            "varillaSeccionada": "0"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "36",
+            "varillaConPerdida": "4",
+            "varillaExpuesta": "3",
+            "varillaSeccionada": "0"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "37",
+            "varillaConPerdida": "4",
+            "varillaExpuesta": "4",
+            "varillaSeccionada": "0"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "38",
+            "varillaConPerdida": "4",
+            "varillaExpuesta": "5",
+            "varillaSeccionada": "0"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "39",
+            "varillaConPerdida": "4",
+            "varillaExpuesta": "6",
+            "varillaSeccionada": "0"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "40",
+            "varillaConPerdida": "4",
+            "varillaExpuesta": "0 - Base con rajaduras",
+            "varillaSeccionada": "0"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "41",
+            "varillaConPerdida": "5",
+            "varillaExpuesta": "0",
+            "varillaSeccionada": "0"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "42",
+            "varillaConPerdida": "5",
+            "varillaExpuesta": "1",
+            "varillaSeccionada": "0"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "43",
+            "varillaConPerdida": "5",
+            "varillaExpuesta": "2",
+            "varillaSeccionada": "0"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "44",
+            "varillaConPerdida": "5",
+            "varillaExpuesta": "3",
+            "varillaSeccionada": "0"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "45",
+            "varillaConPerdida": "5",
+            "varillaExpuesta": "4",
+            "varillaSeccionada": "0"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "46",
+            "varillaConPerdida": "5",
+            "varillaExpuesta": "5",
+            "varillaSeccionada": "0"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "47",
+            "varillaConPerdida": "5",
+            "varillaExpuesta": "6",
+            "varillaSeccionada": "0"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "48",
+            "varillaConPerdida": "5",
+            "varillaExpuesta": "0 - Base con rajaduras",
+            "varillaSeccionada": "0"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "49",
+            "varillaConPerdida": "6",
+            "varillaExpuesta": "0",
+            "varillaSeccionada": "0"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "50",
+            "varillaConPerdida": "6",
+            "varillaExpuesta": "1",
+            "varillaSeccionada": "0"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "51",
+            "varillaConPerdida": "6",
+            "varillaExpuesta": "2",
+            "varillaSeccionada": "0"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "52",
+            "varillaConPerdida": "6",
+            "varillaExpuesta": "3",
+            "varillaSeccionada": "0"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "53",
+            "varillaConPerdida": "6",
+            "varillaExpuesta": "4",
+            "varillaSeccionada": "0"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "54",
+            "varillaConPerdida": "6",
+            "varillaExpuesta": "5",
+            "varillaSeccionada": "0"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "55",
+            "varillaConPerdida": "6",
+            "varillaExpuesta": "6",
+            "varillaSeccionada": "0"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "56",
+            "varillaConPerdida": "6",
+            "varillaExpuesta": "0 - Base con rajaduras",
+            "varillaSeccionada": "0"
+        },
+        {
+            "gradoCorrosion": "B1",
+            "idGradoCorrosion": "57",
+            "varillaConPerdida": "0",
+            "varillaExpuesta": "0",
+            "varillaSeccionada": "1"
+        },
+        {
+            "gradoCorrosion": "B1",
+            "idGradoCorrosion": "58",
+            "varillaConPerdida": "0",
+            "varillaExpuesta": "1",
+            "varillaSeccionada": "1"
+        },
+        {
+            "gradoCorrosion": "B1",
+            "idGradoCorrosion": "59",
+            "varillaConPerdida": "0",
+            "varillaExpuesta": "2",
+            "varillaSeccionada": "1"
+        },
+        {
+            "gradoCorrosion": "B1",
+            "idGradoCorrosion": "60",
+            "varillaConPerdida": "0",
+            "varillaExpuesta": "3",
+            "varillaSeccionada": "1"
+        },
+        {
+            "gradoCorrosion": "B1",
+            "idGradoCorrosion": "61",
+            "varillaConPerdida": "0",
+            "varillaExpuesta": "4",
+            "varillaSeccionada": "1"
+        },
+        {
+            "gradoCorrosion": "B1",
+            "idGradoCorrosion": "62",
+            "varillaConPerdida": "0",
+            "varillaExpuesta": "5",
+            "varillaSeccionada": "1"
+        },
+        {
+            "gradoCorrosion": "B1",
+            "idGradoCorrosion": "63",
+            "varillaConPerdida": "0",
+            "varillaExpuesta": "6",
+            "varillaSeccionada": "1"
+        },
+        {
+            "gradoCorrosion": "B1",
+            "idGradoCorrosion": "64",
+            "varillaConPerdida": "0",
+            "varillaExpuesta": "0 - Base con rajaduras",
+            "varillaSeccionada": "1"
+        },
+        {
+            "gradoCorrosion": "B1",
+            "idGradoCorrosion": "65",
+            "varillaConPerdida": "1",
+            "varillaExpuesta": "0",
+            "varillaSeccionada": "1"
+        },
+        {
+            "gradoCorrosion": "B1",
+            "idGradoCorrosion": "66",
+            "varillaConPerdida": "1",
+            "varillaExpuesta": "1",
+            "varillaSeccionada": "1"
+        },
+        {
+            "gradoCorrosion": "B1",
+            "idGradoCorrosion": "67",
+            "varillaConPerdida": "1",
+            "varillaExpuesta": "2",
+            "varillaSeccionada": "1"
+        },
+        {
+            "gradoCorrosion": "B1",
+            "idGradoCorrosion": "68",
+            "varillaConPerdida": "1",
+            "varillaExpuesta": "3",
+            "varillaSeccionada": "1"
+        },
+        {
+            "gradoCorrosion": "B1",
+            "idGradoCorrosion": "69",
+            "varillaConPerdida": "1",
+            "varillaExpuesta": "4",
+            "varillaSeccionada": "1"
+        },
+        {
+            "gradoCorrosion": "B1",
+            "idGradoCorrosion": "70",
+            "varillaConPerdida": "1",
+            "varillaExpuesta": "5",
+            "varillaSeccionada": "1"
+        },
+        {
+            "gradoCorrosion": "B1",
+            "idGradoCorrosion": "71",
+            "varillaConPerdida": "1",
+            "varillaExpuesta": "6",
+            "varillaSeccionada": "1"
+        },
+        {
+            "gradoCorrosion": "B1",
+            "idGradoCorrosion": "72",
+            "varillaConPerdida": "1",
+            "varillaExpuesta": "0 - Base con rajaduras",
+            "varillaSeccionada": "1"
+        },
+        {
+            "gradoCorrosion": "B1",
+            "idGradoCorrosion": "73",
+            "varillaConPerdida": "2",
+            "varillaExpuesta": "0",
+            "varillaSeccionada": "1"
+        },
+        {
+            "gradoCorrosion": "B1",
+            "idGradoCorrosion": "74",
+            "varillaConPerdida": "2",
+            "varillaExpuesta": "1",
+            "varillaSeccionada": "1"
+        },
+        {
+            "gradoCorrosion": "B1",
+            "idGradoCorrosion": "75",
+            "varillaConPerdida": "2",
+            "varillaExpuesta": "2",
+            "varillaSeccionada": "1"
+        },
+        {
+            "gradoCorrosion": "B1",
+            "idGradoCorrosion": "76",
+            "varillaConPerdida": "2",
+            "varillaExpuesta": "3",
+            "varillaSeccionada": "1"
+        },
+        {
+            "gradoCorrosion": "B1",
+            "idGradoCorrosion": "77",
+            "varillaConPerdida": "2",
+            "varillaExpuesta": "4",
+            "varillaSeccionada": "1"
+        },
+        {
+            "gradoCorrosion": "B1",
+            "idGradoCorrosion": "78",
+            "varillaConPerdida": "2",
+            "varillaExpuesta": "5",
+            "varillaSeccionada": "1"
+        },
+        {
+            "gradoCorrosion": "B1",
+            "idGradoCorrosion": "79",
+            "varillaConPerdida": "2",
+            "varillaExpuesta": "6",
+            "varillaSeccionada": "1"
+        },
+        {
+            "gradoCorrosion": "B1",
+            "idGradoCorrosion": "80",
+            "varillaConPerdida": "2",
+            "varillaExpuesta": "0 - Base con rajaduras",
+            "varillaSeccionada": "1"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "81",
+            "varillaConPerdida": "3",
+            "varillaExpuesta": "0",
+            "varillaSeccionada": "1"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "82",
+            "varillaConPerdida": "3",
+            "varillaExpuesta": "1",
+            "varillaSeccionada": "1"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "83",
+            "varillaConPerdida": "3",
+            "varillaExpuesta": "2",
+            "varillaSeccionada": "1"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "84",
+            "varillaConPerdida": "3",
+            "varillaExpuesta": "3",
+            "varillaSeccionada": "1"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "85",
+            "varillaConPerdida": "3",
+            "varillaExpuesta": "4",
+            "varillaSeccionada": "1"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "86",
+            "varillaConPerdida": "3",
+            "varillaExpuesta": "5",
+            "varillaSeccionada": "1"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "87",
+            "varillaConPerdida": "3",
+            "varillaExpuesta": "6",
+            "varillaSeccionada": "1"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "88",
+            "varillaConPerdida": "3",
+            "varillaExpuesta": "0 - Base con rajaduras",
+            "varillaSeccionada": "1"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "89",
+            "varillaConPerdida": "4",
+            "varillaExpuesta": "0",
+            "varillaSeccionada": "1"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "90",
+            "varillaConPerdida": "4",
+            "varillaExpuesta": "1",
+            "varillaSeccionada": "1"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "91",
+            "varillaConPerdida": "4",
+            "varillaExpuesta": "2",
+            "varillaSeccionada": "1"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "92",
+            "varillaConPerdida": "4",
+            "varillaExpuesta": "3",
+            "varillaSeccionada": "1"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "93",
+            "varillaConPerdida": "4",
+            "varillaExpuesta": "4",
+            "varillaSeccionada": "1"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "94",
+            "varillaConPerdida": "4",
+            "varillaExpuesta": "5",
+            "varillaSeccionada": "1"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "95",
+            "varillaConPerdida": "4",
+            "varillaExpuesta": "6",
+            "varillaSeccionada": "1"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "96",
+            "varillaConPerdida": "4",
+            "varillaExpuesta": "0 - Base con rajaduras",
+            "varillaSeccionada": "1"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "97",
+            "varillaConPerdida": "5",
+            "varillaExpuesta": "0",
+            "varillaSeccionada": "1"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "98",
+            "varillaConPerdida": "5",
+            "varillaExpuesta": "1",
+            "varillaSeccionada": "1"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "99",
+            "varillaConPerdida": "5",
+            "varillaExpuesta": "2",
+            "varillaSeccionada": "1"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "100",
+            "varillaConPerdida": "5",
+            "varillaExpuesta": "3",
+            "varillaSeccionada": "1"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "101",
+            "varillaConPerdida": "5",
+            "varillaExpuesta": "4",
+            "varillaSeccionada": "1"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "102",
+            "varillaConPerdida": "5",
+            "varillaExpuesta": "5",
+            "varillaSeccionada": "1"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "103",
+            "varillaConPerdida": "5",
+            "varillaExpuesta": "6",
+            "varillaSeccionada": "1"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "104",
+            "varillaConPerdida": "5",
+            "varillaExpuesta": "0 - Base con rajaduras",
+            "varillaSeccionada": "1"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "105",
+            "varillaConPerdida": "6",
+            "varillaExpuesta": "0",
+            "varillaSeccionada": "1"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "106",
+            "varillaConPerdida": "6",
+            "varillaExpuesta": "1",
+            "varillaSeccionada": "1"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "107",
+            "varillaConPerdida": "6",
+            "varillaExpuesta": "2",
+            "varillaSeccionada": "1"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "108",
+            "varillaConPerdida": "6",
+            "varillaExpuesta": "3",
+            "varillaSeccionada": "1"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "109",
+            "varillaConPerdida": "6",
+            "varillaExpuesta": "4",
+            "varillaSeccionada": "1"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "110",
+            "varillaConPerdida": "6",
+            "varillaExpuesta": "5",
+            "varillaSeccionada": "1"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "111",
+            "varillaConPerdida": "6",
+            "varillaExpuesta": "6",
+            "varillaSeccionada": "1"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "112",
+            "varillaConPerdida": "6",
+            "varillaExpuesta": "0 - Base con rajaduras",
+            "varillaSeccionada": "1"
+        },
+        {
+            "gradoCorrosion": "B1",
+            "idGradoCorrosion": "113",
+            "varillaConPerdida": "0",
+            "varillaExpuesta": "0",
+            "varillaSeccionada": "2"
+        },
+        {
+            "gradoCorrosion": "B1",
+            "idGradoCorrosion": "114",
+            "varillaConPerdida": "0",
+            "varillaExpuesta": "1",
+            "varillaSeccionada": "2"
+        },
+        {
+            "gradoCorrosion": "B1",
+            "idGradoCorrosion": "115",
+            "varillaConPerdida": "0",
+            "varillaExpuesta": "2",
+            "varillaSeccionada": "2"
+        },
+        {
+            "gradoCorrosion": "B1",
+            "idGradoCorrosion": "116",
+            "varillaConPerdida": "0",
+            "varillaExpuesta": "3",
+            "varillaSeccionada": "2"
+        },
+        {
+            "gradoCorrosion": "B1",
+            "idGradoCorrosion": "117",
+            "varillaConPerdida": "0",
+            "varillaExpuesta": "4",
+            "varillaSeccionada": "2"
+        },
+        {
+            "gradoCorrosion": "B1",
+            "idGradoCorrosion": "118",
+            "varillaConPerdida": "0",
+            "varillaExpuesta": "5",
+            "varillaSeccionada": "2"
+        },
+        {
+            "gradoCorrosion": "B1",
+            "idGradoCorrosion": "119",
+            "varillaConPerdida": "0",
+            "varillaExpuesta": "6",
+            "varillaSeccionada": "2"
+        },
+        {
+            "gradoCorrosion": "B1",
+            "idGradoCorrosion": "120",
+            "varillaConPerdida": "0",
+            "varillaExpuesta": "0 - Base con rajaduras",
+            "varillaSeccionada": "2"
+        },
+        {
+            "gradoCorrosion": "B1",
+            "idGradoCorrosion": "121",
+            "varillaConPerdida": "1",
+            "varillaExpuesta": "0",
+            "varillaSeccionada": "2"
+        },
+        {
+            "gradoCorrosion": "B1",
+            "idGradoCorrosion": "122",
+            "varillaConPerdida": "1",
+            "varillaExpuesta": "1",
+            "varillaSeccionada": "2"
+        },
+        {
+            "gradoCorrosion": "B1",
+            "idGradoCorrosion": "123",
+            "varillaConPerdida": "1",
+            "varillaExpuesta": "2",
+            "varillaSeccionada": "2"
+        },
+        {
+            "gradoCorrosion": "B1",
+            "idGradoCorrosion": "124",
+            "varillaConPerdida": "1",
+            "varillaExpuesta": "3",
+            "varillaSeccionada": "2"
+        },
+        {
+            "gradoCorrosion": "B1",
+            "idGradoCorrosion": "125",
+            "varillaConPerdida": "1",
+            "varillaExpuesta": "4",
+            "varillaSeccionada": "2"
+        },
+        {
+            "gradoCorrosion": "B1",
+            "idGradoCorrosion": "126",
+            "varillaConPerdida": "1",
+            "varillaExpuesta": "5",
+            "varillaSeccionada": "2"
+        },
+        {
+            "gradoCorrosion": "B1",
+            "idGradoCorrosion": "127",
+            "varillaConPerdida": "1",
+            "varillaExpuesta": "6",
+            "varillaSeccionada": "2"
+        },
+        {
+            "gradoCorrosion": "B1",
+            "idGradoCorrosion": "128",
+            "varillaConPerdida": "1",
+            "varillaExpuesta": "0 - Base con rajaduras",
+            "varillaSeccionada": "2"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "129",
+            "varillaConPerdida": "2",
+            "varillaExpuesta": "0",
+            "varillaSeccionada": "2"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "130",
+            "varillaConPerdida": "2",
+            "varillaExpuesta": "1",
+            "varillaSeccionada": "2"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "131",
+            "varillaConPerdida": "2",
+            "varillaExpuesta": "2",
+            "varillaSeccionada": "2"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "132",
+            "varillaConPerdida": "2",
+            "varillaExpuesta": "3",
+            "varillaSeccionada": "2"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "133",
+            "varillaConPerdida": "2",
+            "varillaExpuesta": "4",
+            "varillaSeccionada": "2"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "134",
+            "varillaConPerdida": "2",
+            "varillaExpuesta": "5",
+            "varillaSeccionada": "2"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "135",
+            "varillaConPerdida": "2",
+            "varillaExpuesta": "6",
+            "varillaSeccionada": "2"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "136",
+            "varillaConPerdida": "2",
+            "varillaExpuesta": "0 - Base con rajaduras",
+            "varillaSeccionada": "2"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "137",
+            "varillaConPerdida": "3",
+            "varillaExpuesta": "0",
+            "varillaSeccionada": "2"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "138",
+            "varillaConPerdida": "3",
+            "varillaExpuesta": "1",
+            "varillaSeccionada": "2"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "139",
+            "varillaConPerdida": "3",
+            "varillaExpuesta": "2",
+            "varillaSeccionada": "2"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "140",
+            "varillaConPerdida": "3",
+            "varillaExpuesta": "3",
+            "varillaSeccionada": "2"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "141",
+            "varillaConPerdida": "3",
+            "varillaExpuesta": "4",
+            "varillaSeccionada": "2"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "142",
+            "varillaConPerdida": "3",
+            "varillaExpuesta": "5",
+            "varillaSeccionada": "2"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "143",
+            "varillaConPerdida": "3",
+            "varillaExpuesta": "6",
+            "varillaSeccionada": "2"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "144",
+            "varillaConPerdida": "3",
+            "varillaExpuesta": "0 - Base con rajaduras",
+            "varillaSeccionada": "2"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "145",
+            "varillaConPerdida": "4",
+            "varillaExpuesta": "0",
+            "varillaSeccionada": "2"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "146",
+            "varillaConPerdida": "4",
+            "varillaExpuesta": "1",
+            "varillaSeccionada": "2"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "147",
+            "varillaConPerdida": "4",
+            "varillaExpuesta": "2",
+            "varillaSeccionada": "2"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "148",
+            "varillaConPerdida": "4",
+            "varillaExpuesta": "3",
+            "varillaSeccionada": "2"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "149",
+            "varillaConPerdida": "4",
+            "varillaExpuesta": "4",
+            "varillaSeccionada": "2"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "150",
+            "varillaConPerdida": "4",
+            "varillaExpuesta": "5",
+            "varillaSeccionada": "2"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "151",
+            "varillaConPerdida": "4",
+            "varillaExpuesta": "6",
+            "varillaSeccionada": "2"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "152",
+            "varillaConPerdida": "4",
+            "varillaExpuesta": "0 - Base con rajaduras",
+            "varillaSeccionada": "2"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "153",
+            "varillaConPerdida": "5",
+            "varillaExpuesta": "0",
+            "varillaSeccionada": "2"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "154",
+            "varillaConPerdida": "5",
+            "varillaExpuesta": "1",
+            "varillaSeccionada": "2"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "155",
+            "varillaConPerdida": "5",
+            "varillaExpuesta": "2",
+            "varillaSeccionada": "2"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "156",
+            "varillaConPerdida": "5",
+            "varillaExpuesta": "3",
+            "varillaSeccionada": "2"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "157",
+            "varillaConPerdida": "5",
+            "varillaExpuesta": "4",
+            "varillaSeccionada": "2"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "158",
+            "varillaConPerdida": "5",
+            "varillaExpuesta": "5",
+            "varillaSeccionada": "2"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "159",
+            "varillaConPerdida": "5",
+            "varillaExpuesta": "6",
+            "varillaSeccionada": "2"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "160",
+            "varillaConPerdida": "5",
+            "varillaExpuesta": "0 - Base con rajaduras",
+            "varillaSeccionada": "2"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "161",
+            "varillaConPerdida": "6",
+            "varillaExpuesta": "0",
+            "varillaSeccionada": "2"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "162",
+            "varillaConPerdida": "6",
+            "varillaExpuesta": "1",
+            "varillaSeccionada": "2"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "163",
+            "varillaConPerdida": "6",
+            "varillaExpuesta": "2",
+            "varillaSeccionada": "2"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "164",
+            "varillaConPerdida": "6",
+            "varillaExpuesta": "3",
+            "varillaSeccionada": "2"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "165",
+            "varillaConPerdida": "6",
+            "varillaExpuesta": "4",
+            "varillaSeccionada": "2"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "166",
+            "varillaConPerdida": "6",
+            "varillaExpuesta": "5",
+            "varillaSeccionada": "2"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "167",
+            "varillaConPerdida": "6",
+            "varillaExpuesta": "6",
+            "varillaSeccionada": "2"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "168",
+            "varillaConPerdida": "6",
+            "varillaExpuesta": "0 - Base con rajaduras",
+            "varillaSeccionada": "2"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "169",
+            "varillaConPerdida": "0",
+            "varillaExpuesta": "0",
+            "varillaSeccionada": "3"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "170",
+            "varillaConPerdida": "0",
+            "varillaExpuesta": "1",
+            "varillaSeccionada": "3"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "171",
+            "varillaConPerdida": "0",
+            "varillaExpuesta": "2",
+            "varillaSeccionada": "3"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "172",
+            "varillaConPerdida": "0",
+            "varillaExpuesta": "3",
+            "varillaSeccionada": "3"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "173",
+            "varillaConPerdida": "0",
+            "varillaExpuesta": "4",
+            "varillaSeccionada": "3"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "174",
+            "varillaConPerdida": "0",
+            "varillaExpuesta": "5",
+            "varillaSeccionada": "3"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "175",
+            "varillaConPerdida": "0",
+            "varillaExpuesta": "6",
+            "varillaSeccionada": "3"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "176",
+            "varillaConPerdida": "0",
+            "varillaExpuesta": "0 - Base con rajaduras",
+            "varillaSeccionada": "3"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "177",
+            "varillaConPerdida": "1",
+            "varillaExpuesta": "0",
+            "varillaSeccionada": "3"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "178",
+            "varillaConPerdida": "1",
+            "varillaExpuesta": "1",
+            "varillaSeccionada": "3"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "179",
+            "varillaConPerdida": "1",
+            "varillaExpuesta": "2",
+            "varillaSeccionada": "3"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "180",
+            "varillaConPerdida": "1",
+            "varillaExpuesta": "3",
+            "varillaSeccionada": "3"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "181",
+            "varillaConPerdida": "1",
+            "varillaExpuesta": "4",
+            "varillaSeccionada": "3"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "182",
+            "varillaConPerdida": "1",
+            "varillaExpuesta": "5",
+            "varillaSeccionada": "3"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "183",
+            "varillaConPerdida": "1",
+            "varillaExpuesta": "6",
+            "varillaSeccionada": "3"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "184",
+            "varillaConPerdida": "1",
+            "varillaExpuesta": "0 - Base con rajaduras",
+            "varillaSeccionada": "3"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "185",
+            "varillaConPerdida": "2",
+            "varillaExpuesta": "0",
+            "varillaSeccionada": "3"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "186",
+            "varillaConPerdida": "2",
+            "varillaExpuesta": "1",
+            "varillaSeccionada": "3"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "187",
+            "varillaConPerdida": "2",
+            "varillaExpuesta": "2",
+            "varillaSeccionada": "3"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "188",
+            "varillaConPerdida": "2",
+            "varillaExpuesta": "3",
+            "varillaSeccionada": "3"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "189",
+            "varillaConPerdida": "2",
+            "varillaExpuesta": "4",
+            "varillaSeccionada": "3"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "190",
+            "varillaConPerdida": "2",
+            "varillaExpuesta": "5",
+            "varillaSeccionada": "3"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "191",
+            "varillaConPerdida": "2",
+            "varillaExpuesta": "6",
+            "varillaSeccionada": "3"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "192",
+            "varillaConPerdida": "2",
+            "varillaExpuesta": "0 - Base con rajaduras",
+            "varillaSeccionada": "3"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "193",
+            "varillaConPerdida": "3",
+            "varillaExpuesta": "0",
+            "varillaSeccionada": "3"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "194",
+            "varillaConPerdida": "3",
+            "varillaExpuesta": "1",
+            "varillaSeccionada": "3"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "195",
+            "varillaConPerdida": "3",
+            "varillaExpuesta": "2",
+            "varillaSeccionada": "3"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "196",
+            "varillaConPerdida": "3",
+            "varillaExpuesta": "3",
+            "varillaSeccionada": "3"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "197",
+            "varillaConPerdida": "3",
+            "varillaExpuesta": "4",
+            "varillaSeccionada": "3"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "198",
+            "varillaConPerdida": "3",
+            "varillaExpuesta": "5",
+            "varillaSeccionada": "3"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "199",
+            "varillaConPerdida": "3",
+            "varillaExpuesta": "6",
+            "varillaSeccionada": "3"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "200",
+            "varillaConPerdida": "3",
+            "varillaExpuesta": "0 - Base con rajaduras",
+            "varillaSeccionada": "3"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "201",
+            "varillaConPerdida": "4",
+            "varillaExpuesta": "0",
+            "varillaSeccionada": "3"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "202",
+            "varillaConPerdida": "4",
+            "varillaExpuesta": "1",
+            "varillaSeccionada": "3"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "203",
+            "varillaConPerdida": "4",
+            "varillaExpuesta": "2",
+            "varillaSeccionada": "3"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "204",
+            "varillaConPerdida": "4",
+            "varillaExpuesta": "3",
+            "varillaSeccionada": "3"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "205",
+            "varillaConPerdida": "4",
+            "varillaExpuesta": "4",
+            "varillaSeccionada": "3"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "206",
+            "varillaConPerdida": "4",
+            "varillaExpuesta": "5",
+            "varillaSeccionada": "3"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "207",
+            "varillaConPerdida": "4",
+            "varillaExpuesta": "6",
+            "varillaSeccionada": "3"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "208",
+            "varillaConPerdida": "4",
+            "varillaExpuesta": "0 - Base con rajaduras",
+            "varillaSeccionada": "3"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "209",
+            "varillaConPerdida": "5",
+            "varillaExpuesta": "0",
+            "varillaSeccionada": "3"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "210",
+            "varillaConPerdida": "5",
+            "varillaExpuesta": "1",
+            "varillaSeccionada": "3"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "211",
+            "varillaConPerdida": "5",
+            "varillaExpuesta": "2",
+            "varillaSeccionada": "3"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "212",
+            "varillaConPerdida": "5",
+            "varillaExpuesta": "3",
+            "varillaSeccionada": "3"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "213",
+            "varillaConPerdida": "5",
+            "varillaExpuesta": "4",
+            "varillaSeccionada": "3"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "214",
+            "varillaConPerdida": "5",
+            "varillaExpuesta": "5",
+            "varillaSeccionada": "3"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "215",
+            "varillaConPerdida": "5",
+            "varillaExpuesta": "6",
+            "varillaSeccionada": "3"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "216",
+            "varillaConPerdida": "5",
+            "varillaExpuesta": "0 - Base con rajaduras",
+            "varillaSeccionada": "3"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "217",
+            "varillaConPerdida": "6",
+            "varillaExpuesta": "0",
+            "varillaSeccionada": "3"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "218",
+            "varillaConPerdida": "6",
+            "varillaExpuesta": "1",
+            "varillaSeccionada": "3"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "219",
+            "varillaConPerdida": "6",
+            "varillaExpuesta": "2",
+            "varillaSeccionada": "3"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "220",
+            "varillaConPerdida": "6",
+            "varillaExpuesta": "3",
+            "varillaSeccionada": "3"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "221",
+            "varillaConPerdida": "6",
+            "varillaExpuesta": "4",
+            "varillaSeccionada": "3"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "222",
+            "varillaConPerdida": "6",
+            "varillaExpuesta": "5",
+            "varillaSeccionada": "3"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "223",
+            "varillaConPerdida": "6",
+            "varillaExpuesta": "6",
+            "varillaSeccionada": "3"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "224",
+            "varillaConPerdida": "6",
+            "varillaExpuesta": "7",
+            "varillaSeccionada": "3"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "225",
+            "varillaConPerdida": "6",
+            "varillaExpuesta": "0 - Base con rajaduras",
+            "varillaSeccionada": "3"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "226",
+            "varillaConPerdida": "0",
+            "varillaExpuesta": "0",
+            "varillaSeccionada": "4"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "227",
+            "varillaConPerdida": "0",
+            "varillaExpuesta": "1",
+            "varillaSeccionada": "4"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "228",
+            "varillaConPerdida": "0",
+            "varillaExpuesta": "2",
+            "varillaSeccionada": "4"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "229",
+            "varillaConPerdida": "0",
+            "varillaExpuesta": "3",
+            "varillaSeccionada": "4"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "230",
+            "varillaConPerdida": "0",
+            "varillaExpuesta": "4",
+            "varillaSeccionada": "4"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "231",
+            "varillaConPerdida": "0",
+            "varillaExpuesta": "5",
+            "varillaSeccionada": "4"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "232",
+            "varillaConPerdida": "0",
+            "varillaExpuesta": "6",
+            "varillaSeccionada": "4"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "233",
+            "varillaConPerdida": "0",
+            "varillaExpuesta": "0 - Base con rajaduras",
+            "varillaSeccionada": "4"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "234",
+            "varillaConPerdida": "1",
+            "varillaExpuesta": "0",
+            "varillaSeccionada": "4"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "235",
+            "varillaConPerdida": "1",
+            "varillaExpuesta": "1",
+            "varillaSeccionada": "4"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "236",
+            "varillaConPerdida": "1",
+            "varillaExpuesta": "2",
+            "varillaSeccionada": "4"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "237",
+            "varillaConPerdida": "1",
+            "varillaExpuesta": "3",
+            "varillaSeccionada": "4"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "238",
+            "varillaConPerdida": "1",
+            "varillaExpuesta": "4",
+            "varillaSeccionada": "4"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "239",
+            "varillaConPerdida": "1",
+            "varillaExpuesta": "5",
+            "varillaSeccionada": "4"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "240",
+            "varillaConPerdida": "1",
+            "varillaExpuesta": "6",
+            "varillaSeccionada": "4"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "241",
+            "varillaConPerdida": "1",
+            "varillaExpuesta": "0 - Base con rajaduras",
+            "varillaSeccionada": "4"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "242",
+            "varillaConPerdida": "2",
+            "varillaExpuesta": "0",
+            "varillaSeccionada": "4"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "243",
+            "varillaConPerdida": "2",
+            "varillaExpuesta": "1",
+            "varillaSeccionada": "4"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "244",
+            "varillaConPerdida": "2",
+            "varillaExpuesta": "2",
+            "varillaSeccionada": "4"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "245",
+            "varillaConPerdida": "2",
+            "varillaExpuesta": "3",
+            "varillaSeccionada": "4"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "246",
+            "varillaConPerdida": "2",
+            "varillaExpuesta": "4",
+            "varillaSeccionada": "4"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "247",
+            "varillaConPerdida": "2",
+            "varillaExpuesta": "5",
+            "varillaSeccionada": "4"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "248",
+            "varillaConPerdida": "2",
+            "varillaExpuesta": "6",
+            "varillaSeccionada": "4"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "249",
+            "varillaConPerdida": "2",
+            "varillaExpuesta": "0 - Base con rajaduras",
+            "varillaSeccionada": "4"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "250",
+            "varillaConPerdida": "3",
+            "varillaExpuesta": "0",
+            "varillaSeccionada": "4"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "251",
+            "varillaConPerdida": "3",
+            "varillaExpuesta": "1",
+            "varillaSeccionada": "4"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "252",
+            "varillaConPerdida": "3",
+            "varillaExpuesta": "2",
+            "varillaSeccionada": "4"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "253",
+            "varillaConPerdida": "3",
+            "varillaExpuesta": "3",
+            "varillaSeccionada": "4"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "254",
+            "varillaConPerdida": "3",
+            "varillaExpuesta": "4",
+            "varillaSeccionada": "4"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "255",
+            "varillaConPerdida": "3",
+            "varillaExpuesta": "5",
+            "varillaSeccionada": "4"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "256",
+            "varillaConPerdida": "3",
+            "varillaExpuesta": "6",
+            "varillaSeccionada": "4"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "257",
+            "varillaConPerdida": "3",
+            "varillaExpuesta": "0 - Base con rajaduras",
+            "varillaSeccionada": "4"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "258",
+            "varillaConPerdida": "4",
+            "varillaExpuesta": "0",
+            "varillaSeccionada": "4"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "259",
+            "varillaConPerdida": "4",
+            "varillaExpuesta": "1",
+            "varillaSeccionada": "4"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "260",
+            "varillaConPerdida": "4",
+            "varillaExpuesta": "2",
+            "varillaSeccionada": "4"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "261",
+            "varillaConPerdida": "4",
+            "varillaExpuesta": "3",
+            "varillaSeccionada": "4"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "262",
+            "varillaConPerdida": "4",
+            "varillaExpuesta": "4",
+            "varillaSeccionada": "4"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "263",
+            "varillaConPerdida": "4",
+            "varillaExpuesta": "5",
+            "varillaSeccionada": "4"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "264",
+            "varillaConPerdida": "4",
+            "varillaExpuesta": "6",
+            "varillaSeccionada": "4"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "265",
+            "varillaConPerdida": "4",
+            "varillaExpuesta": "0 - Base con rajaduras",
+            "varillaSeccionada": "4"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "266",
+            "varillaConPerdida": "5",
+            "varillaExpuesta": "0",
+            "varillaSeccionada": "4"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "267",
+            "varillaConPerdida": "5",
+            "varillaExpuesta": "1",
+            "varillaSeccionada": "4"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "268",
+            "varillaConPerdida": "5",
+            "varillaExpuesta": "2",
+            "varillaSeccionada": "4"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "269",
+            "varillaConPerdida": "5",
+            "varillaExpuesta": "3",
+            "varillaSeccionada": "4"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "270",
+            "varillaConPerdida": "5",
+            "varillaExpuesta": "4",
+            "varillaSeccionada": "4"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "271",
+            "varillaConPerdida": "5",
+            "varillaExpuesta": "5",
+            "varillaSeccionada": "4"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "272",
+            "varillaConPerdida": "5",
+            "varillaExpuesta": "6",
+            "varillaSeccionada": "4"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "273",
+            "varillaConPerdida": "5",
+            "varillaExpuesta": "0 - Base con rajaduras",
+            "varillaSeccionada": "4"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "274",
+            "varillaConPerdida": "6",
+            "varillaExpuesta": "0",
+            "varillaSeccionada": "4"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "275",
+            "varillaConPerdida": "6",
+            "varillaExpuesta": "1",
+            "varillaSeccionada": "4"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "276",
+            "varillaConPerdida": "6",
+            "varillaExpuesta": "2",
+            "varillaSeccionada": "4"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "277",
+            "varillaConPerdida": "6",
+            "varillaExpuesta": "3",
+            "varillaSeccionada": "4"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "278",
+            "varillaConPerdida": "6",
+            "varillaExpuesta": "4",
+            "varillaSeccionada": "4"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "279",
+            "varillaConPerdida": "6",
+            "varillaExpuesta": "5",
+            "varillaSeccionada": "4"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "280",
+            "varillaConPerdida": "6",
+            "varillaExpuesta": "6",
+            "varillaSeccionada": "4"
+        },
+        {
+            "gradoCorrosion": "A",
+            "idGradoCorrosion": "281",
+            "varillaConPerdida": "6",
+            "varillaExpuesta": "0 - Base con rajaduras",
+            "varillaSeccionada": "4"
+        }
+    ]
+}

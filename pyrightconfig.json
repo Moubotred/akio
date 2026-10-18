@@ -1,0 +1,10 @@
+{
+  "venvPath": "Ruta",
+  "venv": "akio",
+  "extraPaths": [
+    "."
+  ],
+  "typeCheckingMode": "standard",
+  "reportUnusedImport": "none",
+  "reportUnusedVariable": "none"
+}

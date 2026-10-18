@@ -1,0 +1,345 @@
+[
+    {
+        "descripcion": "Tipo de condición critica",
+        "descripcionValor": "POSTE CHOCADO",
+        "idIndicador": 17,
+        "idIndicadorValor": 141,
+        "idTipoActivo": 1
+    },
+    {
+        "descripcion": "Tipo de condición critica",
+        "descripcionValor": "POSTE QUEBRADO",
+        "idIndicador": 17,
+        "idIndicadorValor": 142,
+        "idTipoActivo": 1
+    },
+    {
+        "descripcion": "Estado de tubo",
+        "descripcionValor": "CORROIDO",
+        "idIndicador": 19,
+        "idIndicadorValor": 147,
+        "idTipoActivo": 1
+    },
+    {
+        "descripcion": "Estado de tubo",
+        "descripcionValor": "ROTO",
+        "idIndicador": 19,
+        "idIndicadorValor": 150,
+        "idTipoActivo": 1
+    },
+    {
+        "descripcion": "Tipo de red de telecomunicación",
+        "descripcionValor": "PASANTE ATADO CON SOGA",
+        "idIndicador": 21,
+        "idIndicadorValor": 160,
+        "idTipoActivo": 1
+    },
+    {
+        "descripcion": "Tipo de redes BT",
+        "descripcionValor": "CONCENTRICO",
+        "idIndicador": 23,
+        "idIndicadorValor": 168,
+        "idTipoActivo": 1
+    },
+    {
+        "descripcion": "Tipo de redes BT",
+        "descripcionValor": "TW",
+        "idIndicador": 23,
+        "idIndicadorValor": 170,
+        "idTipoActivo": 1
+    },
+    {
+        "descripcion": "Tipo de redes BT",
+        "descripcionValor": "DESNUDO",
+        "idIndicador": 23,
+        "idIndicadorValor": 172,
+        "idTipoActivo": 1
+    },
+    {
+        "descripcion": "Estado de caja de distribución",
+        "descripcionValor": "MAL ESTADO",
+        "idIndicador": 25,
+        "idIndicadorValor": 177,
+        "idTipoActivo": 1
+    },
+    {
+        "descripcion": "Condición de caja de distribución",
+        "descripcionValor": "ABIERTO",
+        "idIndicador": 26,
+        "idIndicadorValor": 180,
+        "idTipoActivo": 1
+    },
+    {
+        "descripcion": "Condición de caja de distribución",
+        "descripcionValor": "DESCOLGADO",
+        "idIndicador": 26,
+        "idIndicadorValor": 181,
+        "idTipoActivo": 1
+    },
+    {
+        "descripcion": "Condición de caja de distribución",
+        "descripcionValor": "SIN TAPA",
+        "idIndicador": 26,
+        "idIndicadorValor": 183,
+        "idTipoActivo": 1
+    },
+    {
+        "descripcion": "Condición de caja de distribución",
+        "descripcionValor": "CORROIDO",
+        "idIndicador": 26,
+        "idIndicadorValor": 185,
+        "idTipoActivo": 1
+    },
+    {
+        "descripcion": "Estado de acometida",
+        "descripcionValor": "MAL ESTADO",
+        "idIndicador": 27,
+        "idIndicadorValor": 187,
+        "idTipoActivo": 1
+    },
+    {
+        "descripcion": "Caja BT6",
+        "descripcionValor": "MAL ESTADO",
+        "idIndicador": 28,
+        "idIndicadorValor": 191,
+        "idTipoActivo": 1
+    },
+    {
+        "descripcion": "Caja BT6",
+        "descripcionValor": "SIN CAJA",
+        "idIndicador": 28,
+        "idIndicadorValor": 401,
+        "idTipoActivo": 1
+    },
+    {
+        "descripcion": "DMS de suelo",
+        "descripcionValor": "SI",
+        "idIndicador": 29,
+        "idIndicadorValor": 195,
+        "idTipoActivo": 1
+    },
+    {
+        "descripcion": "DMS sobre predio",
+        "descripcionValor": "SI",
+        "idIndicador": 30,
+        "idIndicadorValor": 198,
+        "idTipoActivo": 1
+    },
+    {
+        "descripcion": "DMS a predio",
+        "descripcionValor": "SI",
+        "idIndicador": 31,
+        "idIndicadorValor": 201,
+        "idTipoActivo": 1
+    },
+    {
+        "descripcion": "DMS a red MT",
+        "descripcionValor": "SI",
+        "idIndicador": 32,
+        "idIndicadorValor": 204,
+        "idTipoActivo": 1
+    },
+    {
+        "descripcion": "DMS a red telecomunicación",
+        "descripcionValor": "SI",
+        "idIndicador": 33,
+        "idIndicadorValor": 207,
+        "idTipoActivo": 1
+    },
+    {
+        "descripcion": "Estado de retenida",
+        "descripcionValor": "CORROIDO",
+        "idIndicador": 39,
+        "idIndicadorValor": 219,
+        "idTipoActivo": 1
+    },
+    {
+        "descripcion": "Estado de retenida",
+        "descripcionValor": "MAL ESTADO",
+        "idIndicador": 39,
+        "idIndicadorValor": 221,
+        "idTipoActivo": 1
+    },
+    {
+        "descripcion": "Condición de retenida",
+        "descripcionValor": "CANALETA EN MAL ESTADO",
+        "idIndicador": 40,
+        "idIndicadorValor": 222,
+        "idTipoActivo": 1
+    },
+    {
+        "descripcion": "Condición de retenida",
+        "descripcionValor": "SECCIONADA",
+        "idIndicador": 40,
+        "idIndicadorValor": 224,
+        "idTipoActivo": 1
+    },
+    {
+        "descripcion": "Condición de retenida",
+        "descripcionValor": "SIN CANALETA",
+        "idIndicador": 40,
+        "idIndicadorValor": 225,
+        "idTipoActivo": 1
+    },
+    {
+        "descripcion": "Condición de retenida",
+        "descripcionValor": "SUELTA",
+        "idIndicador": 40,
+        "idIndicadorValor": 226,
+        "idTipoActivo": 1
+    },
+    {
+        "descripcion": "Condición de retenida",
+        "descripcionValor": "CABLE DESENHEBRADO",
+        "idIndicador": 40,
+        "idIndicadorValor": 402,
+        "idTipoActivo": 1
+    },
+    {
+        "descripcion": "Condición de retenida",
+        "descripcionValor": "PERNO CON OJAL ABANDONADO",
+        "idIndicador": 40,
+        "idIndicadorValor": 403,
+        "idTipoActivo": 1
+    },
+    {
+        "descripcion": "Condición de retenida",
+        "descripcionValor": "RETENIDA ABANDONADA(SIN REDES AÉREAS)",
+        "idIndicador": 40,
+        "idIndicadorValor": 404,
+        "idTipoActivo": 1
+    },
+    {
+        "descripcion": "Ubicación de aislador",
+        "descripcionValor": "SOBRE BRAZO VIOLIN",
+        "idIndicador": 41,
+        "idIndicadorValor": 231,
+        "idTipoActivo": 1
+    },
+    {
+        "descripcion": "Ubicación de aislador",
+        "descripcionValor": "SIN AISLADOR",
+        "idIndicador": 41,
+        "idIndicadorValor": 405,
+        "idTipoActivo": 1
+    },
+    {
+        "descripcion": "Tipo de corrosión largo",
+        "descripcionValor": "CON DESPRENDIMIENTO",
+        "idIndicador": 56,
+        "idIndicadorValor": 311,
+        "idTipoActivo": 1
+    },
+    {
+        "descripcion": "Tipo de corrosión largo",
+        "descripcionValor": "CON GRIETA",
+        "idIndicador": 56,
+        "idIndicadorValor": 312,
+        "idTipoActivo": 1
+    },
+    {
+        "descripcion": "Tipo de corrosión largo",
+        "descripcionValor": "CON RAJADURA",
+        "idIndicador": 56,
+        "idIndicadorValor": 313,
+        "idTipoActivo": 1
+    },
+    {
+        "descripcion": "Tipo de corrosión largo",
+        "descripcionValor": "FE-AGUJEROS POR CORROSION",
+        "idIndicador": 56,
+        "idIndicadorValor": 376,
+        "idTipoActivo": 1
+    },
+    {
+        "descripcion": "Tipo de corrosión largo",
+        "descripcionValor": "FE-COSTRAS DE OXIDO",
+        "idIndicador": 56,
+        "idIndicadorValor": 377,
+        "idTipoActivo": 1
+    },
+    {
+        "descripcion": "Tipo de corrosión largo",
+        "descripcionValor": "FE-POROSIDAD POR CORROSION",
+        "idIndicador": 56,
+        "idIndicadorValor": 379,
+        "idTipoActivo": 1
+    },
+    {
+        "descripcion": "Tipo de corrosión largo",
+        "descripcionValor": "PUNTA FLEXIONADA POR DEBILITAMIENTO",
+        "idIndicador": 56,
+        "idIndicadorValor": 380,
+        "idTipoActivo": 1
+    },
+    {
+        "descripcion": "Estado de cimentación",
+        "descripcionValor": "CIMENTACION EXPUESTA",
+        "idIndicador": 57,
+        "idIndicadorValor": 316,
+        "idTipoActivo": 1
+    },
+    {
+        "descripcion": "Motivo de impedimento",
+        "descripcionValor": "DENTRO DE PREDIO",
+        "idIndicador": 58,
+        "idIndicadorValor": 323,
+        "idTipoActivo": 1
+    },
+    {
+        "descripcion": "Motivo de impedimento",
+        "descripcionValor": "DESMONTE",
+        "idIndicador": 58,
+        "idIndicadorValor": 324,
+        "idTipoActivo": 1
+    },
+    {
+        "descripcion": "Motivo de impedimento",
+        "descripcionValor": "NO HAY ACCESO",
+        "idIndicador": 58,
+        "idIndicadorValor": 326,
+        "idTipoActivo": 1
+    },
+    {
+        "descripcion": "Motivo de impedimento",
+        "descripcionValor": "OTROS",
+        "idIndicador": 58,
+        "idIndicadorValor": 328,
+        "idTipoActivo": 1
+    },
+    {
+        "descripcion": "Motivo de impedimento",
+        "descripcionValor": "VEGETACION",
+        "idIndicador": 58,
+        "idIndicadorValor": 336,
+        "idTipoActivo": 1
+    },
+    {
+        "descripcion": "Condición Caja BT6",
+        "descripcionValor": "ABIERTO",
+        "idIndicador": 73,
+        "idIndicadorValor": 421,
+        "idTipoActivo": 1
+    },
+    {
+        "descripcion": "Condición Caja BT6",
+        "descripcionValor": "CORROIDO",
+        "idIndicador": 73,
+        "idIndicadorValor": 422,
+        "idTipoActivo": 1
+    },
+    {
+        "descripcion": "Condición Caja BT6",
+        "descripcionValor": "DESCOLGADO",
+        "idIndicador": 73,
+        "idIndicadorValor": 423,
+        "idTipoActivo": 1
+    },
+    {
+        "descripcion": "Condición Caja BT6",
+        "descripcionValor": "SIN TAPA",
+        "idIndicador": 73,
+        "idIndicadorValor": 424,
+        "idTipoActivo": 1
+    }
+]

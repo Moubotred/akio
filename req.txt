@@ -1,0 +1,13 @@
+fastapi 
+uvicorn 
+sse_starlette 
+sqlalchemy
+"sqlalchemy[asyncio]"
+httpx 
+aiofile
+jinja2
+pydantic
+pydantic_settings
+redis
+aiosqlite
+python-multipart

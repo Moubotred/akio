@@ -1,0 +1,1234 @@
+{
+    "celda": [
+        {
+            "indicador": "1",
+            "descripcion": "Estado Puerta",
+            "idValor": "1",
+            "valor": ""
+        },
+        {
+            "indicador": "1",
+            "descripcion": "Estado Puerta",
+            "idValor": "2",
+            "valor": "BUEN ESTADO"
+        },
+        {
+            "indicador": "1",
+            "descripcion": "Estado Puerta",
+            "idValor": "3",
+            "valor": "MAL ESTADO"
+        },
+        {
+            "indicador": "2",
+            "descripcion": "Estado Ducto de Ventilación",
+            "idValor": "4",
+            "valor": ""
+        },
+        {
+            "indicador": "2",
+            "descripcion": "Estado Ducto de Ventilación",
+            "idValor": "5",
+            "valor": "OPERATIVO"
+        },
+        {
+            "indicador": "2",
+            "descripcion": "Estado Ducto de Ventilación",
+            "idValor": "6",
+            "valor": "INOPERATIVO"
+        },
+        {
+            "indicador": "3",
+            "descripcion": "Iluminación",
+            "idValor": "7",
+            "valor": ""
+        },
+        {
+            "indicador": "3",
+            "descripcion": "Iluminación",
+            "idValor": "8",
+            "valor": "BUENA"
+        },
+        {
+            "indicador": "3",
+            "descripcion": "Iluminación",
+            "idValor": "9",
+            "valor": "MALA"
+        },
+        {
+            "indicador": "3",
+            "descripcion": "Iluminación",
+            "idValor": "10",
+            "valor": "NO TIENE"
+        },
+        {
+            "indicador": "4",
+            "descripcion": "Pérdida de Aceite",
+            "idValor": "11",
+            "valor": ""
+        },
+        {
+            "indicador": "4",
+            "descripcion": "Pérdida de Aceite",
+            "idValor": "12",
+            "valor": "SI"
+        },
+        {
+            "indicador": "4",
+            "descripcion": "Pérdida de Aceite",
+            "idValor": "13",
+            "valor": "NO"
+        },
+        {
+            "indicador": "5",
+            "descripcion": "Disyuntor - Capacidad",
+            "idValor": "14",
+            "valor": ""
+        },
+        {
+            "indicador": "5",
+            "descripcion": "Disyuntor - Capacidad",
+            "idValor": "15",
+            "valor": "630 A"
+        },
+        {
+            "indicador": "5",
+            "descripcion": "Disyuntor - Capacidad",
+            "idValor": "16",
+            "valor": "750 A"
+        },
+        {
+            "indicador": "5",
+            "descripcion": "Disyuntor - Capacidad",
+            "idValor": "17",
+            "valor": "800 A"
+        },
+        {
+            "indicador": "5",
+            "descripcion": "Disyuntor - Capacidad",
+            "idValor": "18",
+            "valor": "1250 A"
+        },
+        {
+            "indicador": "5",
+            "descripcion": "Disyuntor - Capacidad",
+            "idValor": "19",
+            "valor": "2000 A"
+        },
+        {
+            "indicador": "6",
+            "descripcion": "Disyuntor - Estado",
+            "idValor": "20",
+            "valor": ""
+        },
+        {
+            "indicador": "6",
+            "descripcion": "Disyuntor - Estado",
+            "idValor": "21",
+            "valor": "BUEN ESTADO"
+        },
+        {
+            "indicador": "6",
+            "descripcion": "Disyuntor - Estado",
+            "idValor": "22",
+            "valor": "RECALENTADO"
+        },
+        {
+            "indicador": "6",
+            "descripcion": "Disyuntor - Estado",
+            "idValor": "23",
+            "valor": "INOPERATIVO"
+        },
+        {
+            "indicador": "7",
+            "descripcion": "Tipo de Tablero",
+            "idValor": "24",
+            "valor": ""
+        },
+        {
+            "indicador": "7",
+            "descripcion": "Tipo de Tablero",
+            "idValor": "25",
+            "valor": "TIPO CONVENCIONAL"
+        },
+        {
+            "indicador": "7",
+            "descripcion": "Tipo de Tablero",
+            "idValor": "26",
+            "valor": "TIPO COMPACTO"
+        },
+        {
+            "indicador": "7",
+            "descripcion": "Tipo de Tablero",
+            "idValor": "27",
+            "valor": "TAM 3"
+        },
+        {
+            "indicador": "7",
+            "descripcion": "Tipo de Tablero",
+            "idValor": "28",
+            "valor": "TAM 4"
+        },
+        {
+            "indicador": "7",
+            "descripcion": "Tipo de Tablero",
+            "idValor": "29",
+            "valor": "TIPO COMAS"
+        },
+        {
+            "indicador": "7",
+            "descripcion": "Tipo de Tablero",
+            "idValor": "30",
+            "valor": "OTRO"
+        },
+        {
+            "indicador": "8",
+            "descripcion": "Tipo de Barras",
+            "idValor": "31",
+            "valor": ""
+        },
+        {
+            "indicador": "8",
+            "descripcion": "Tipo de Barras",
+            "idValor": "32",
+            "valor": "BARRA PARTIDA"
+        },
+        {
+            "indicador": "8",
+            "descripcion": "Tipo de Barras",
+            "idValor": "33",
+            "valor": "BARRA COMÚN"
+        },
+        {
+            "indicador": "8",
+            "descripcion": "Tipo de Barras",
+            "idValor": "34",
+            "valor": "BARRA FIJA"
+        },
+        {
+            "indicador": "8",
+            "descripcion": "Tipo de Barras",
+            "idValor": "35",
+            "valor": "BARRA FLOTANTE"
+        },
+        {
+            "indicador": "29",
+            "descripcion": "Red SP",
+            "idValor": "194",
+            "valor": ""
+        },
+        {
+            "indicador": "29",
+            "descripcion": "Red SP",
+            "idValor": "195",
+            "valor": "SI"
+        },
+        {
+            "indicador": "29",
+            "descripcion": "Red SP",
+            "idValor": "196",
+            "valor": "NO"
+        },
+        {
+            "indicador": "30",
+            "descripcion": "Red AP",
+            "idValor": "197",
+            "valor": ""
+        },
+        {
+            "indicador": "30",
+            "descripcion": "Red AP",
+            "idValor": "198",
+            "valor": "SI"
+        },
+        {
+            "indicador": "30",
+            "descripcion": "Red AP",
+            "idValor": "199",
+            "valor": "NO"
+        }
+    ],
+    "celdaSP": [
+        {
+            "indicador": "9",
+            "descripcion": "Característica 1",
+            "idValor": "36",
+            "valor": ""
+        },
+        {
+            "indicador": "9",
+            "descripcion": "Característica 1",
+            "idValor": "37",
+            "valor": "OPERATIVO"
+        },
+        {
+            "indicador": "9",
+            "descripcion": "Característica 1",
+            "idValor": "38",
+            "valor": "RESERVA"
+        },
+        {
+            "indicador": "9",
+            "descripcion": "Característica 1",
+            "idValor": "39",
+            "valor": "INOPERATIVO"
+        },
+        {
+            "indicador": "9",
+            "descripcion": "Característica 1",
+            "idValor": "40",
+            "valor": "ESPACIO DISPONIBLE"
+        },
+        {
+            "indicador": "10",
+            "descripcion": "Base Portafusibles",
+            "idValor": "41",
+            "valor": ""
+        },
+        {
+            "indicador": "10",
+            "descripcion": "Base Portafusibles",
+            "idValor": "42",
+            "valor": "HORIZONTAL"
+        },
+        {
+            "indicador": "10",
+            "descripcion": "Base Portafusibles",
+            "idValor": "43",
+            "valor": "VERTICAL"
+        },
+        {
+            "indicador": "11",
+            "descripcion": "Base Portafusibles - Marca",
+            "idValor": "44",
+            "valor": ""
+        },
+        {
+            "indicador": "11",
+            "descripcion": "Base Portafusibles - Marca",
+            "idValor": "45",
+            "valor": "BBC"
+        },
+        {
+            "indicador": "11",
+            "descripcion": "Base Portafusibles - Marca",
+            "idValor": "46",
+            "valor": "ABB"
+        },
+        {
+            "indicador": "11",
+            "descripcion": "Base Portafusibles - Marca",
+            "idValor": "47",
+            "valor": "EFEN"
+        },
+        {
+            "indicador": "11",
+            "descripcion": "Base Portafusibles - Marca",
+            "idValor": "48",
+            "valor": "PRONUTEC"
+        },
+        {
+            "indicador": "11",
+            "descripcion": "Base Portafusibles - Marca",
+            "idValor": "49",
+            "valor": "SIEMENS"
+        },
+        {
+            "indicador": "11",
+            "descripcion": "Base Portafusibles - Marca",
+            "idValor": "50",
+            "valor": "JEAN MULLER"
+        },
+        {
+            "indicador": "11",
+            "descripcion": "Base Portafusibles - Marca",
+            "idValor": "51",
+            "valor": "SCHNEIDER"
+        },
+        {
+            "indicador": "11",
+            "descripcion": "Base Portafusibles - Marca",
+            "idValor": "52",
+            "valor": "FMG"
+        },
+        {
+            "indicador": "12",
+            "descripcion": "Base Portafusibles - Capacidad",
+            "idValor": "53",
+            "valor": ""
+        },
+        {
+            "indicador": "12",
+            "descripcion": "Base Portafusibles - Capacidad",
+            "idValor": "54",
+            "valor": "100 A"
+        },
+        {
+            "indicador": "12",
+            "descripcion": "Base Portafusibles - Capacidad",
+            "idValor": "55",
+            "valor": "125 A"
+        },
+        {
+            "indicador": "12",
+            "descripcion": "Base Portafusibles - Capacidad",
+            "idValor": "56",
+            "valor": "160 A"
+        },
+        {
+            "indicador": "12",
+            "descripcion": "Base Portafusibles - Capacidad",
+            "idValor": "57",
+            "valor": "250 A"
+        },
+        {
+            "indicador": "12",
+            "descripcion": "Base Portafusibles - Capacidad",
+            "idValor": "58",
+            "valor": "400 A"
+        },
+        {
+            "indicador": "12",
+            "descripcion": "Base Portafusibles - Capacidad",
+            "idValor": "59",
+            "valor": "630 A"
+        },
+        {
+            "indicador": "12",
+            "descripcion": "Base Portafusibles - Capacidad",
+            "idValor": "60",
+            "valor": "1000 A"
+        },
+        {
+            "indicador": "13",
+            "descripcion": "Estado",
+            "idValor": "61",
+            "valor": ""
+        },
+        {
+            "indicador": "13",
+            "descripcion": "Estado",
+            "idValor": "62",
+            "valor": "OPERATIVO"
+        },
+        {
+            "indicador": "13",
+            "descripcion": "Estado",
+            "idValor": "63",
+            "valor": "RESERVA"
+        },
+        {
+            "indicador": "13",
+            "descripcion": "Estado",
+            "idValor": "64",
+            "valor": "INOPERATIVO"
+        },
+        {
+            "indicador": "13",
+            "descripcion": "Estado",
+            "idValor": "65",
+            "valor": "ESPACIO DISPONIBLE"
+        },
+        {
+            "indicador": "14",
+            "descripcion": "Tipo de Fusible",
+            "idValor": "66",
+            "valor": ""
+        },
+        {
+            "indicador": "14",
+            "descripcion": "Tipo de Fusible",
+            "idValor": "67",
+            "valor": "LÁMINA"
+        },
+        {
+            "indicador": "14",
+            "descripcion": "Tipo de Fusible",
+            "idValor": "68",
+            "valor": "NH"
+        },
+        {
+            "indicador": "15",
+            "descripcion": "Sub - Tipo de Fusible",
+            "idValor": "69",
+            "valor": ""
+        },
+        {
+            "indicador": "15",
+            "descripcion": "Sub - Tipo de Fusible",
+            "idValor": "70",
+            "valor": "GRANDE"
+        },
+        {
+            "indicador": "15",
+            "descripcion": "Sub - Tipo de Fusible",
+            "idValor": "71",
+            "valor": "MEDIANO"
+        },
+        {
+            "indicador": "15",
+            "descripcion": "Sub - Tipo de Fusible",
+            "idValor": "72",
+            "valor": "PEQUEÑO"
+        },
+        {
+            "indicador": "15",
+            "descripcion": "Sub - Tipo de Fusible",
+            "idValor": "73",
+            "valor": "00"
+        },
+        {
+            "indicador": "15",
+            "descripcion": "Sub - Tipo de Fusible",
+            "idValor": "74",
+            "valor": "0"
+        },
+        {
+            "indicador": "15",
+            "descripcion": "Sub - Tipo de Fusible",
+            "idValor": "75",
+            "valor": "1"
+        },
+        {
+            "indicador": "15",
+            "descripcion": "Sub - Tipo de Fusible",
+            "idValor": "76",
+            "valor": "2"
+        },
+        {
+            "indicador": "15",
+            "descripcion": "Sub - Tipo de Fusible",
+            "idValor": "77",
+            "valor": "3"
+        },
+        {
+            "indicador": "16",
+            "descripcion": "Fusible - Capacidad",
+            "idValor": "78",
+            "valor": ""
+        },
+        {
+            "indicador": "16",
+            "descripcion": "Fusible - Capacidad",
+            "idValor": "79",
+            "valor": "100"
+        },
+        {
+            "indicador": "16",
+            "descripcion": "Fusible - Capacidad",
+            "idValor": "80",
+            "valor": "125"
+        },
+        {
+            "indicador": "16",
+            "descripcion": "Fusible - Capacidad",
+            "idValor": "81",
+            "valor": "160"
+        },
+        {
+            "indicador": "16",
+            "descripcion": "Fusible - Capacidad",
+            "idValor": "82",
+            "valor": "250"
+        },
+        {
+            "indicador": "16",
+            "descripcion": "Fusible - Capacidad",
+            "idValor": "83",
+            "valor": "300"
+        },
+        {
+            "indicador": "16",
+            "descripcion": "Fusible - Capacidad",
+            "idValor": "84",
+            "valor": "315"
+        },
+        {
+            "indicador": "16",
+            "descripcion": "Fusible - Capacidad",
+            "idValor": "85",
+            "valor": "400"
+        },
+        {
+            "indicador": "16",
+            "descripcion": "Fusible - Capacidad",
+            "idValor": "86",
+            "valor": "450"
+        },
+        {
+            "indicador": "16",
+            "descripcion": "Fusible - Capacidad",
+            "idValor": "87",
+            "valor": "630"
+        },
+        {
+            "indicador": "16",
+            "descripcion": "Fusible - Capacidad",
+            "idValor": "200",
+            "valor": "500"
+        }
+    ],
+    "celdaAP": [
+        {
+            "indicador": "17",
+            "descripcion": "Característica 1",
+            "idValor": "88",
+            "valor": ""
+        },
+        {
+            "indicador": "17",
+            "descripcion": "Característica 1",
+            "idValor": "89",
+            "valor": "OPERATIVO"
+        },
+        {
+            "indicador": "17",
+            "descripcion": "Característica 1",
+            "idValor": "90",
+            "valor": "RESERVA"
+        },
+        {
+            "indicador": "17",
+            "descripcion": "Característica 1",
+            "idValor": "91",
+            "valor": "INOPERATIVO"
+        },
+        {
+            "indicador": "17",
+            "descripcion": "Característica 1",
+            "idValor": "92",
+            "valor": "ESPACIO DISPONIBLE"
+        },
+        {
+            "indicador": "18",
+            "descripcion": "Contador - Capacidad",
+            "idValor": "93",
+            "valor": ""
+        },
+        {
+            "indicador": "18",
+            "descripcion": "Contador - Capacidad",
+            "idValor": "94",
+            "valor": "63 A"
+        },
+        {
+            "indicador": "18",
+            "descripcion": "Contador - Capacidad",
+            "idValor": "95",
+            "valor": "100 A"
+        },
+        {
+            "indicador": "18",
+            "descripcion": "Contador - Capacidad",
+            "idValor": "96",
+            "valor": "125 A"
+        },
+        {
+            "indicador": "18",
+            "descripcion": "Contador - Capacidad",
+            "idValor": "97",
+            "valor": "160 A"
+        },
+        {
+            "indicador": "18",
+            "descripcion": "Contador - Capacidad",
+            "idValor": "98",
+            "valor": "250 A"
+        },
+        {
+            "indicador": "18",
+            "descripcion": "Contador - Capacidad",
+            "idValor": "203",
+            "valor": "145A"
+        },
+        {
+            "indicador": "19",
+            "descripcion": "Contador - Estado",
+            "idValor": "99",
+            "valor": ""
+        },
+        {
+            "indicador": "19",
+            "descripcion": "Contador - Estado",
+            "idValor": "100",
+            "valor": "BUEN ESTADO"
+        },
+        {
+            "indicador": "19",
+            "descripcion": "Contador - Estado",
+            "idValor": "101",
+            "valor": "RECALENTADO"
+        },
+        {
+            "indicador": "19",
+            "descripcion": "Contador - Estado",
+            "idValor": "102",
+            "valor": "INOPERATIVO"
+        },
+        {
+            "indicador": "19",
+            "descripcion": "Contador - Estado",
+            "idValor": "204",
+            "valor": "MAL ESTADO"
+        },
+        {
+            "indicador": "20",
+            "descripcion": "Base Portafusibles",
+            "idValor": "103",
+            "valor": ""
+        },
+        {
+            "indicador": "20",
+            "descripcion": "Base Portafusibles",
+            "idValor": "104",
+            "valor": "HORIZONTAL"
+        },
+        {
+            "indicador": "20",
+            "descripcion": "Base Portafusibles",
+            "idValor": "105",
+            "valor": "VERTICAL"
+        },
+        {
+            "indicador": "21",
+            "descripcion": "Base Portafusibles - Marca",
+            "idValor": "106",
+            "valor": ""
+        },
+        {
+            "indicador": "21",
+            "descripcion": "Base Portafusibles - Marca",
+            "idValor": "107",
+            "valor": "BBC"
+        },
+        {
+            "indicador": "21",
+            "descripcion": "Base Portafusibles - Marca",
+            "idValor": "108",
+            "valor": "ABB"
+        },
+        {
+            "indicador": "21",
+            "descripcion": "Base Portafusibles - Marca",
+            "idValor": "109",
+            "valor": "EFEN"
+        },
+        {
+            "indicador": "21",
+            "descripcion": "Base Portafusibles - Marca",
+            "idValor": "110",
+            "valor": "PRONUTEC"
+        },
+        {
+            "indicador": "21",
+            "descripcion": "Base Portafusibles - Marca",
+            "idValor": "111",
+            "valor": "SIEMENS"
+        },
+        {
+            "indicador": "21",
+            "descripcion": "Base Portafusibles - Marca",
+            "idValor": "112",
+            "valor": "JEAN MULLER"
+        },
+        {
+            "indicador": "21",
+            "descripcion": "Base Portafusibles - Marca",
+            "idValor": "113",
+            "valor": "SCHNEIDER"
+        },
+        {
+            "indicador": "21",
+            "descripcion": "Base Portafusibles - Marca",
+            "idValor": "114",
+            "valor": "FMG"
+        },
+        {
+            "indicador": "22",
+            "descripcion": "Base Portafusibles - Capacidad",
+            "idValor": "115",
+            "valor": ""
+        },
+        {
+            "indicador": "22",
+            "descripcion": "Base Portafusibles - Capacidad",
+            "idValor": "116",
+            "valor": "100 A"
+        },
+        {
+            "indicador": "22",
+            "descripcion": "Base Portafusibles - Capacidad",
+            "idValor": "117",
+            "valor": "125 A"
+        },
+        {
+            "indicador": "22",
+            "descripcion": "Base Portafusibles - Capacidad",
+            "idValor": "118",
+            "valor": "160 A"
+        },
+        {
+            "indicador": "22",
+            "descripcion": "Base Portafusibles - Capacidad",
+            "idValor": "119",
+            "valor": "250 A"
+        },
+        {
+            "indicador": "22",
+            "descripcion": "Base Portafusibles - Capacidad",
+            "idValor": "120",
+            "valor": "400 A"
+        },
+        {
+            "indicador": "22",
+            "descripcion": "Base Portafusibles - Capacidad",
+            "idValor": "121",
+            "valor": "630 A"
+        },
+        {
+            "indicador": "22",
+            "descripcion": "Base Portafusibles - Capacidad",
+            "idValor": "122",
+            "valor": "1000 A"
+        },
+        {
+            "indicador": "23",
+            "descripcion": "Estado",
+            "idValor": "123",
+            "valor": ""
+        },
+        {
+            "indicador": "23",
+            "descripcion": "Estado",
+            "idValor": "124",
+            "valor": "OPERATIVO"
+        },
+        {
+            "indicador": "23",
+            "descripcion": "Estado",
+            "idValor": "125",
+            "valor": "RESERVA"
+        },
+        {
+            "indicador": "23",
+            "descripcion": "Estado",
+            "idValor": "126",
+            "valor": "INOPERATIVO"
+        },
+        {
+            "indicador": "23",
+            "descripcion": "Estado",
+            "idValor": "127",
+            "valor": "ESPACIO DISPONIBLE"
+        },
+        {
+            "indicador": "24",
+            "descripcion": "Tipo de Fusible",
+            "idValor": "128",
+            "valor": ""
+        },
+        {
+            "indicador": "24",
+            "descripcion": "Tipo de Fusible",
+            "idValor": "129",
+            "valor": "LÁMINA"
+        },
+        {
+            "indicador": "24",
+            "descripcion": "Tipo de Fusible",
+            "idValor": "130",
+            "valor": "NH"
+        },
+        {
+            "indicador": "25",
+            "descripcion": "Sub - Tipo de Fusible",
+            "idValor": "131",
+            "valor": ""
+        },
+        {
+            "indicador": "25",
+            "descripcion": "Sub - Tipo de Fusible",
+            "idValor": "132",
+            "valor": "GRANDE"
+        },
+        {
+            "indicador": "25",
+            "descripcion": "Sub - Tipo de Fusible",
+            "idValor": "133",
+            "valor": "MEDIANO"
+        },
+        {
+            "indicador": "25",
+            "descripcion": "Sub - Tipo de Fusible",
+            "idValor": "134",
+            "valor": "PEQUEÑO"
+        },
+        {
+            "indicador": "25",
+            "descripcion": "Sub - Tipo de Fusible",
+            "idValor": "135",
+            "valor": "00"
+        },
+        {
+            "indicador": "25",
+            "descripcion": "Sub - Tipo de Fusible",
+            "idValor": "136",
+            "valor": "0"
+        },
+        {
+            "indicador": "25",
+            "descripcion": "Sub - Tipo de Fusible",
+            "idValor": "137",
+            "valor": "1"
+        },
+        {
+            "indicador": "25",
+            "descripcion": "Sub - Tipo de Fusible",
+            "idValor": "138",
+            "valor": "2"
+        },
+        {
+            "indicador": "25",
+            "descripcion": "Sub - Tipo de Fusible",
+            "idValor": "139",
+            "valor": "3"
+        },
+        {
+            "indicador": "25",
+            "descripcion": "Sub - Tipo de Fusible",
+            "idValor": "201",
+            "valor": "000"
+        },
+        {
+            "indicador": "26",
+            "descripcion": "Fusible - Capacidad",
+            "idValor": "140",
+            "valor": ""
+        },
+        {
+            "indicador": "26",
+            "descripcion": "Fusible - Capacidad",
+            "idValor": "141",
+            "valor": "100"
+        },
+        {
+            "indicador": "26",
+            "descripcion": "Fusible - Capacidad",
+            "idValor": "142",
+            "valor": "125"
+        },
+        {
+            "indicador": "26",
+            "descripcion": "Fusible - Capacidad",
+            "idValor": "143",
+            "valor": "160"
+        },
+        {
+            "indicador": "26",
+            "descripcion": "Fusible - Capacidad",
+            "idValor": "144",
+            "valor": "250"
+        },
+        {
+            "indicador": "26",
+            "descripcion": "Fusible - Capacidad",
+            "idValor": "145",
+            "valor": "300"
+        },
+        {
+            "indicador": "26",
+            "descripcion": "Fusible - Capacidad",
+            "idValor": "146",
+            "valor": "315"
+        },
+        {
+            "indicador": "26",
+            "descripcion": "Fusible - Capacidad",
+            "idValor": "147",
+            "valor": "400"
+        },
+        {
+            "indicador": "26",
+            "descripcion": "Fusible - Capacidad",
+            "idValor": "148",
+            "valor": "450"
+        },
+        {
+            "indicador": "26",
+            "descripcion": "Fusible - Capacidad",
+            "idValor": "149",
+            "valor": "630"
+        },
+        {
+            "indicador": "26",
+            "descripcion": "Fusible - Capacidad",
+            "idValor": "202",
+            "valor": "80"
+        }
+    ],
+    "celdaTerna": [
+        {
+            "indicador": "27",
+            "descripcion": "Tipo de Cable",
+            "idValor": "150",
+            "valor": ""
+        },
+        {
+            "indicador": "27",
+            "descripcion": "Tipo de Cable",
+            "idValor": "151",
+            "valor": "NKBA"
+        },
+        {
+            "indicador": "27",
+            "descripcion": "Tipo de Cable",
+            "idValor": "152",
+            "valor": "CAAIS"
+        },
+        {
+            "indicador": "27",
+            "descripcion": "Tipo de Cable",
+            "idValor": "153",
+            "valor": "CAIS"
+        },
+        {
+            "indicador": "27",
+            "descripcion": "Tipo de Cable",
+            "idValor": "154",
+            "valor": "CPI"
+        },
+        {
+            "indicador": "27",
+            "descripcion": "Tipo de Cable",
+            "idValor": "155",
+            "valor": "N2XY"
+        },
+        {
+            "indicador": "27",
+            "descripcion": "Tipo de Cable",
+            "idValor": "156",
+            "valor": "NA2XY"
+        },
+        {
+            "indicador": "27",
+            "descripcion": "Tipo de Cable",
+            "idValor": "157",
+            "valor": "NAYY"
+        },
+        {
+            "indicador": "27",
+            "descripcion": "Tipo de Cable",
+            "idValor": "158",
+            "valor": "NKY"
+        },
+        {
+            "indicador": "27",
+            "descripcion": "Tipo de Cable",
+            "idValor": "159",
+            "valor": "NYBY"
+        },
+        {
+            "indicador": "27",
+            "descripcion": "Tipo de Cable",
+            "idValor": "160",
+            "valor": "NYY"
+        },
+        {
+            "indicador": "27",
+            "descripcion": "Tipo de Cable",
+            "idValor": "161",
+            "valor": "PVC"
+        },
+        {
+            "indicador": "27",
+            "descripcion": "Tipo de Cable",
+            "idValor": "162",
+            "valor": "THW"
+        },
+        {
+            "indicador": "27",
+            "descripcion": "Tipo de Cable",
+            "idValor": "163",
+            "valor": "TW"
+        },
+        {
+            "indicador": "28",
+            "descripcion": "Sección de Cable",
+            "idValor": "164",
+            "valor": ""
+        },
+        {
+            "indicador": "28",
+            "descripcion": "Sección de Cable",
+            "idValor": "165",
+            "valor": "3"
+        },
+        {
+            "indicador": "28",
+            "descripcion": "Sección de Cable",
+            "idValor": "166",
+            "valor": "4"
+        },
+        {
+            "indicador": "28",
+            "descripcion": "Sección de Cable",
+            "idValor": "167",
+            "valor": "6"
+        },
+        {
+            "indicador": "28",
+            "descripcion": "Sección de Cable",
+            "idValor": "168",
+            "valor": "8"
+        },
+        {
+            "indicador": "28",
+            "descripcion": "Sección de Cable",
+            "idValor": "169",
+            "valor": "10"
+        },
+        {
+            "indicador": "28",
+            "descripcion": "Sección de Cable",
+            "idValor": "170",
+            "valor": "13"
+        },
+        {
+            "indicador": "28",
+            "descripcion": "Sección de Cable",
+            "idValor": "171",
+            "valor": "16"
+        },
+        {
+            "indicador": "28",
+            "descripcion": "Sección de Cable",
+            "idValor": "172",
+            "valor": "20"
+        },
+        {
+            "indicador": "28",
+            "descripcion": "Sección de Cable",
+            "idValor": "173",
+            "valor": "21"
+        },
+        {
+            "indicador": "28",
+            "descripcion": "Sección de Cable",
+            "idValor": "174",
+            "valor": "25"
+        },
+        {
+            "indicador": "28",
+            "descripcion": "Sección de Cable",
+            "idValor": "175",
+            "valor": "30"
+        },
+        {
+            "indicador": "28",
+            "descripcion": "Sección de Cable",
+            "idValor": "176",
+            "valor": "33"
+        },
+        {
+            "indicador": "28",
+            "descripcion": "Sección de Cable",
+            "idValor": "177",
+            "valor": "35"
+        },
+        {
+            "indicador": "28",
+            "descripcion": "Sección de Cable",
+            "idValor": "178",
+            "valor": "40"
+        },
+        {
+            "indicador": "28",
+            "descripcion": "Sección de Cable",
+            "idValor": "179",
+            "valor": "50"
+        },
+        {
+            "indicador": "28",
+            "descripcion": "Sección de Cable",
+            "idValor": "180",
+            "valor": "67"
+        },
+        {
+            "indicador": "28",
+            "descripcion": "Sección de Cable",
+            "idValor": "181",
+            "valor": "70"
+        },
+        {
+            "indicador": "28",
+            "descripcion": "Sección de Cable",
+            "idValor": "182",
+            "valor": "95"
+        },
+        {
+            "indicador": "28",
+            "descripcion": "Sección de Cable",
+            "idValor": "183",
+            "valor": "107"
+        },
+        {
+            "indicador": "28",
+            "descripcion": "Sección de Cable",
+            "idValor": "184",
+            "valor": "120"
+        },
+        {
+            "indicador": "28",
+            "descripcion": "Sección de Cable",
+            "idValor": "185",
+            "valor": "125"
+        },
+        {
+            "indicador": "28",
+            "descripcion": "Sección de Cable",
+            "idValor": "186",
+            "valor": "150"
+        },
+        {
+            "indicador": "28",
+            "descripcion": "Sección de Cable",
+            "idValor": "187",
+            "valor": "185"
+        },
+        {
+            "indicador": "28",
+            "descripcion": "Sección de Cable",
+            "idValor": "188",
+            "valor": "200"
+        },
+        {
+            "indicador": "28",
+            "descripcion": "Sección de Cable",
+            "idValor": "189",
+            "valor": "240"
+        },
+        {
+            "indicador": "28",
+            "descripcion": "Sección de Cable",
+            "idValor": "190",
+            "valor": "250"
+        },
+        {
+            "indicador": "28",
+            "descripcion": "Sección de Cable",
+            "idValor": "191",
+            "valor": "300"
+        },
+        {
+            "indicador": "28",
+            "descripcion": "Sección de Cable",
+            "idValor": "192",
+            "valor": "400"
+        },
+        {
+            "indicador": "28",
+            "descripcion": "Sección de Cable",
+            "idValor": "193",
+            "valor": "500"
+        }
+    ]
+}

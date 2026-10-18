@@ -1,0 +1,224 @@
+<!-- /templates/dashboard.html -->
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- <script src="https://unpkg.com/htmx.org@2.0.4"></script> -->
+    <link rel="stylesheet" href="{{ url_for('static', path='dashboard.css') }}">
+    <title>Panel de Sesiones</title>
+</head>
+<body>
+    <div class="side-menu">
+        <div class="brand-name">
+            <h1>Brand</h1>
+        </div>
+        <ul>
+            <li><img src="{{ url_for('static', path='/images/dashboard.png') }}" alt="Dashboard">&nbsp;<span>Dashboard</span></li>
+            <li><img src="{{ url_for('static', path='/images/dashboard.png') }}" alt="Students">&nbsp;<span>Stundets</span></li>
+            <li><img src="{{ url_for('static', path='/images/dashboard.png') }}" alt="Teacher">&nbsp;<span>Teacher</span></li>
+            <li><img src="{{ url_for('static', path='/images/dashboard.png') }}" alt="Schools">&nbsp;<span>Scools</span></li>
+            <li><img src="{{ url_for('static', path='/images/dashboard.png') }}" alt="Incomer">&nbsp;<span>Incomer</span></li>
+            <li><img src="{{ url_for('static', path='/images/dashboard.png') }}" alt="Help">&nbsp;<span>Help</span></li>
+            <li><img src="{{ url_for('static', path='/images/dashboard.png') }}" alt="Settings">&nbsp;<span>Settings</span></li>
+        </ul>
+    </div>
+
+    <div class="container">
+        <div class="header">
+            <div class="nav">
+                <div class="search">
+                    <input type="text" placeholder="search...">
+                    <button type="submit"><img src="{{ url_for('static', path='/images/search.png') }}" alt="Search"></button>
+                </div>
+                
+
+                <div class="user">
+
+                    <a href="" class="btn">Add New</a>
+                    
+                    <button class="openModal" type="button" 
+                            id="btnNotifly" 
+                            aria-expanded="false"
+                            >
+                        <img id="notifly" src="{{ url_for('static', path='/images/notificacion.png') }}" alt="Ver notificaciones">
+                    </button>
+
+                    <div class="img-case">
+                        <img src="{{ url_for('static', path='/images/usuario.png') }}" >
+                    </div>
+
+                    <!-- El contenedor de la tabla (Popup) -->
+                    <div class="modal" id="modal">
+                        <div class="modal-inner">
+                            <div class="modal-header">
+                                <h2>Solicitudes de Dispositivos</h2>
+                                <button type="button" class="btn-close-modal" id="closeModal">&times;</button>
+                            </div>
+                            
+                            <table class="modal-table">
+                                <thead>
+                                    <tr>
+                                        <th>device_id</th>
+                                        <th>usuario</th>
+                                        <th>empresa</th>
+                                        <th>version_android</th>
+                                        <th>acciones</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    
+                                    <tr></tr>
+
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                    
+                    
+                    <script src="{{ url_for('static', path='js/frontend.js') }}"></script>
+
+                </div>
+
+            </div>
+        </div>
+
+        <div class="content"> 
+
+            <div class="cards">
+                <!-- card -->
+                <div class="card"> 
+                    <div class="box">
+                        <h1>10</h1>
+                        <h3>usuarios</h3>
+                    </div>
+                    <div class="icon-case">
+                        <img src="{{ url_for('static', path='/images/students.png') }}" alt="Icon">
+                    </div>
+                </div>
+
+                <!-- card -->
+                <div class="card"> 
+                    <div class="box">
+                        <h1>2</h1>
+                        <h3>conectados</h3>
+                    </div>
+                    <div class="icon-case">
+                        <img src="{{ url_for('static', path='/images/students.png') }}" alt="Icon">
+                    </div>
+                </div>
+
+                <!-- card -->
+                <div class="card"> 
+                    <div class="box">
+                        <h1>3</h1>
+                        <h3>instancia llm</h3>
+                    </div>
+                    <div class="icon-case">
+                        <img src="{{ url_for('static', path='/images/students.png') }}" alt="Icon">
+                    </div>
+                </div>
+
+                <!-- card -->
+                <div class="card"> 
+                    <div class="box">
+                        <h1>2500</h1>
+                        <h3>recaudado</h3>
+                    </div>
+                    <div class="icon-case">
+                        <img src="{{ url_for('static', path='/images/students.png') }}" alt="Icon">
+                    </div>
+                </div>
+
+            </div>
+            
+        <div class="content-2">
+            
+            <div class="recent-payments">
+                <div class="title">
+                    <h2>Pago reciente</h2>
+                    <a href="#" class="btn">View All</a>
+                </div>
+                <table>
+                    
+                        <tr>
+                            <th>Name</th>
+                            <th>Name</th>
+                            <th>Name</th>
+                            <th>Name</th>
+                        </tr>        
+                        <tr>
+                            <td>guanja</td>
+                            <td>guanja</td>
+                            <td>guanja</td>
+                            <td><a href="#" class="btn">view</a></td>
+                        </tr>
+                        <tr>
+                            <td>guanja</td>
+                            <td>guanja</td>
+                            <td>guanja</td>
+                            <td><a href="#" class="btn">view</a></td>
+                        </tr>
+                        <tr>
+                            <td>guanja</td>
+                            <td>guanja</td>
+                            <td>guanja</td>
+                            <td><a href="#" class="btn">view</a></td>
+                        </tr>
+                        <tr>
+                            <td>guanja</td>
+                            <td>guanja</td>
+                            <td>guanja</td>
+                            <td><a href="#" class="btn">view</a></td>
+                        </tr>
+                        <tr>
+                            <td>guanja</td>
+                            <td>guanja</td>
+                            <td>guanja</td>
+                            <td><a href="#" class="btn">view</a></td>
+                        </tr>
+                    
+                </table>
+            </div>
+
+            <div class="new-students">
+                <div class="title">
+                    <h2>new-students</h2>
+                    <a href="#" class="btn">View All</a>
+                </div>
+                <table>
+                    
+                    <tr>
+                        <th>Profile</th>
+                        <th>Name</th>
+                        <th>Options</th>
+                    </tr>
+
+                    <tr>
+                        <td><img src="{{ url_for('static', path='/images/students.png') }}" alt=""></td>
+                        <td>Jonh steve doe</td>
+                        <td><img src="{{ url_for('static', path='/images/students.png') }}" alt=""></td>
+                    </tr>
+                
+                    <tr>
+                        <td><img src="{{ url_for('static', path='/images/students.png') }}" alt=""></td>
+                        <td>Jonh steve doe</td>
+                        <td><img src="{{ url_for('static', path='/images/students.png') }}" alt=""></td>
+                    </tr>
+
+                    <tr>
+                        <td><img src="{{ url_for('static', path='/images/students.png') }}" alt=""></td>
+                        <td>Jonh steve doe</td>
+                        <td><img src="{{ url_for('static', path='/images/students.png') }}" alt=""></td>
+                    </tr>
+
+                </table>
+            </div>
+        
+        </div>
+
+        </div>
+    </div>
+</body>
+</html>

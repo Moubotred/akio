@@ -1,0 +1,152 @@
+[
+    {
+        "codigo": 1,
+        "descripcion": "Catastro General",
+        "idValor": "1",
+        "indicador": "1",
+        "opciones": null,
+        "orden": null,
+        "parent": null,
+        "valor": "catastro_general"
+    },
+    {
+        "codigo": 2,
+        "descripcion": "Catastro General",
+        "idValor": "1",
+        "indicador": "2",
+        "opciones": null,
+        "orden": null,
+        "parent": null,
+        "valor": "catastro_general"
+    },
+    {
+        "codigo": 3,
+        "descripcion": "Catastro General",
+        "idValor": "1",
+        "indicador": "3",
+        "opciones": null,
+        "orden": null,
+        "parent": null,
+        "valor": "catastro_general"
+    },
+    {
+        "codigo": 4,
+        "descripcion": "Suministro con tapa cerrada (inicial)",
+        "idValor": "1",
+        "indicador": "15",
+        "opciones": null,
+        "orden": null,
+        "parent": "2",
+        "valor": "sum_tapa_cerrada_inicial"
+    },
+    {
+        "codigo": 5,
+        "descripcion": "Suministro con tapa abierta (inicial)",
+        "idValor": "1",
+        "indicador": "15",
+        "opciones": null,
+        "orden": null,
+        "parent": "2",
+        "valor": "sum_tapa_abierta_inicial"
+    },
+    {
+        "codigo": 6,
+        "descripcion": "Suministro con tapa cerrada (final)",
+        "idValor": "1",
+        "indicador": "15",
+        "opciones": null,
+        "orden": null,
+        "parent": "2",
+        "valor": "sum_tapa_cerrada_final"
+    },
+    {
+        "codigo": 7,
+        "descripcion": "Suministro con tapa abierta (final)",
+        "idValor": "1",
+        "indicador": "15",
+        "opciones": null,
+        "orden": null,
+        "parent": "2",
+        "valor": "sum_tapa_abierta_final"
+    },
+    {
+        "codigo": 8,
+        "descripcion": "Otros",
+        "idValor": "1",
+        "indicador": "15",
+        "opciones": null,
+        "orden": null,
+        "parent": "2",
+        "valor": "otros_medicion_directa"
+    },
+    {
+        "codigo": 9,
+        "descripcion": "Suministro con tapa cerrada (inicial)",
+        "idValor": "1",
+        "indicador": "15",
+        "opciones": null,
+        "orden": null,
+        "parent": "3",
+        "valor": "sum_tapa_cerrada_inicial"
+    },
+    {
+        "codigo": 10,
+        "descripcion": "C. Medición con tapa abierta (inicial)",
+        "idValor": "1",
+        "indicador": "15",
+        "opciones": null,
+        "orden": null,
+        "parent": "3",
+        "valor": "c_medicion_tapa_abierta_inicial"
+    },
+    {
+        "codigo": 11,
+        "descripcion": "C. Toma con tapa abierta (inicial)",
+        "idValor": "1",
+        "indicador": "15",
+        "opciones": null,
+        "orden": null,
+        "parent": "3",
+        "valor": "c_toma_tapa_abierta_inicial"
+    },
+    {
+        "codigo": 12,
+        "descripcion": "C. Medición con tapa abierta (final)",
+        "idValor": "1",
+        "indicador": "15",
+        "opciones": null,
+        "orden": null,
+        "parent": "3",
+        "valor": "c_medicion_tapa_abierta"
+    },
+    {
+        "codigo": 13,
+        "descripcion": "C. Toma con tapa abierta (final)",
+        "idValor": "1",
+        "indicador": "15",
+        "opciones": null,
+        "orden": null,
+        "parent": "3",
+        "valor": "c_toma_tapa_abierta"
+    },
+    {
+        "codigo": 14,
+        "descripcion": "Suministro con tapa cerrada (final)",
+        "idValor": "1",
+        "indicador": "15",
+        "opciones": null,
+        "orden": null,
+        "parent": "3",
+        "valor": "sum_tapa_cerrada"
+    },
+    {
+        "codigo": 15,
+        "descripcion": "Otros",
+        "idValor": "1",
+        "indicador": "15",
+        "opciones": null,
+        "orden": null,
+        "parent": "3",
+        "valor": "otros_medicion_indirecta"
+    }
+]

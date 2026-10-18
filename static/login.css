@@ -1,0 +1,246 @@
+
+/* =========================
+   RESET
+   ========================= */
+
+   * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/* =========================
+   PAGINA
+   ========================= */
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #f1f5f9;
+    color: #0f172a;
+}
+
+.login-page {
+    min-height: 100vh;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+    overflow: hidden;
+
+    background-color: #f1f5f9;
+}
+
+.login-page::before {
+    content: "";
+
+    position: absolute;
+    inset: -20px;
+
+    background-image:
+        radial-gradient(
+            circle at 20% 20%,
+            rgba(37, 99, 235, 0.25),
+            transparent 40%
+        ),
+        radial-gradient(
+            circle at 80% 80%,
+            rgba(124, 58, 237, 0.25),
+            transparent 40%
+        ),
+        url("/static/images/girl.jpg");
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    filter: blur(8px);
+
+    transform: scale(1.05);
+
+    z-index: 0;
+}
+
+/* .login-page {
+    min-height: 100vh;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    padding: 24px;
+
+    background-image:
+      
+        radial-gradient(
+            circle at 20% 20%,
+            rgba(37, 99, 235, 0.25),
+            transparent 40%
+        ),
+        radial-gradient(
+            circle at 80% 80%,
+            rgba(124, 58, 237, 0.25),
+            transparent 40%
+        ),
+
+        url("girl.jpg");
+
+        #f1f5f9;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+} */
+
+
+/* =========================
+   TARJETA
+   ========================= */
+
+.login-card {
+    position: relative;
+    z-index: 1;
+    width: 100%;
+    max-width: 400px;
+
+    background: white;
+
+    padding: 40px;
+
+    border-radius: 12px;
+
+    box-shadow:
+        0 10px 25px rgba(15, 23, 42, 0.08);
+}
+
+
+/* =========================
+   LOGO
+   ========================= */
+
+.brand {
+    text-align: center;
+
+    margin-bottom: 32px;
+}
+
+
+.brand-logo {
+    width: 48px;
+    height: 48px;
+
+    margin: 0 auto 16px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background-image: url("/static/images/diablito.jpg");
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:center;
+    /*color: white;*/
+
+    border-radius: 10px;
+
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.brand h1 {
+    font-size: 28px;
+    margin-bottom: 6px;
+}
+
+.brand p {
+    color: #64748b;
+    font-size: 14px;
+}
+
+
+/* =========================
+   FORMULARIO
+   ========================= */
+
+.login-form {
+    display: flex;
+    flex-direction: column;
+
+    gap: 20px;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+
+    gap: 8px;
+}
+
+.form-group label {
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.form-group input {
+    width: 100%;
+
+    padding: 12px 14px;
+
+    border: 1px solid #cbd5e1;
+    border-radius: 8px;
+
+    font-size: 15px;
+
+    outline: none;
+
+    transition:
+        border-color 0.2s,
+        box-shadow 0.2s;
+}
+
+
+/* =========================
+   INPUT FOCUS
+   ========================= */
+
+.form-group input:focus {
+    border-color: #2563eb;
+
+    box-shadow:
+        0 0 0 3px rgba(37, 99, 235, 0.12);
+}
+
+
+/* =========================
+   BOTON
+   ========================= */
+
+.login-form button {
+    border: none;
+
+    padding: 13px;
+
+    border-radius: 8px;
+
+    background: #2563eb;
+    color: white;
+
+    font-size: 15px;
+    font-weight: 600;
+
+    cursor: pointer;
+
+    transition:
+        background 0.2s,
+        transform 0.1s;
+}
+
+.login-form button:hover {
+    background: #1d4ed8;
+}
+
+.login-form button:active {
+    transform: scale(0.98);
+}
+
