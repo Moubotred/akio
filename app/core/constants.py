@@ -4,6 +4,8 @@ from dotenv import load_dotenv
 
 class LDS:
 
+    load_dotenv()
+
     _DIR = Path(__file__).resolve().parent.parent
 
     REDIS_BLOCKED_SETS = "devices:blocked"
@@ -13,7 +15,7 @@ class LDS:
 
     PROTOCOL = "https"
 
-    DOMAIN = os.getenv("HOST_LOOPBACK")
+    DOMAIN = os.getenv("HOST_RED")
     # DOMAIN = os.getenv("HOST_REMOTO")
 
     BASE_URL = f"{PROTOCOL}://{DOMAIN}"
