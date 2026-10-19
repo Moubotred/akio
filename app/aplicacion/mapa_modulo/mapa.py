@@ -36,6 +36,7 @@ async def obtener_paquetes_trabajo(
         payload=payload,
         headers=dict(request.headers)
     )
+
 @router.post(
    "/paquetesinspeccion"
 )
