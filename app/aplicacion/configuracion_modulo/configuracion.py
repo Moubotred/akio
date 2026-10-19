@@ -1,21 +1,8 @@
-from fastapi import (
-    APIRouter,
-    Depends,
-    Request,
-    Body
-)
-
-from sqlalchemy.ext.asyncio import (
-    AsyncSession
-)
-
-from app.core.database import (
-    get_db
-)
-
-from app.aplicacion.configuracion_modulo._service  import (
-    Configuracion_service
-)
+# app/aplicacion/configuracion_modulo/configuracion.py
+from fastapi import APIRouter,Depends,Request,Body
+from sqlalchemy.ext.asyncio import AsyncSession
+from app.core.database import get_db
+from app.aplicacion.configuracion_modulo._service import Configuracion_service
 
 router = APIRouter(
     prefix="/tecnicoii/GesManmtoBT/BTInspeccion.svc/configuracion",
