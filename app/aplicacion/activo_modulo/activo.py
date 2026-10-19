@@ -15,13 +15,4 @@ async def obtener_grado_corrocion(
     request: Request,
     db: AsyncSession = Depends(get_db)
 ):
-    
-    payload = await request.json()
-    headers = dict(request.headers)
-
-    return await activo_service.obtener_grado_corrocion(
-        db,
-        headers,
-        payload
-        )
-
+    pass
