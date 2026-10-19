@@ -1,6 +1,4 @@
-from app.services.proxy_service import (
-    Proxy_service
-)
+from app.core.proxy import Proxy_service
 
 class InspeccionRepository:
     
