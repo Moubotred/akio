@@ -52,7 +52,6 @@ async def registro_ejecucion_aplicacion(request:Request,payload: DynamicPayload)
 async def ValidarSesionActivaImei(request:Request,payload: DynamicPayload):
     logger.info(f"[-] payload indefinido esctructura: {payload}")
 
-
 @router.post("/ObtieneVersionDisponible")
 async def ObtieneVersionDisponible(request:Request):
     dat = await request.body()
@@ -66,7 +65,8 @@ async def ActualizarEstadoGPSDispositivo(request:Request):
 @router.post("/RegistrarUbicacion")
 async def RegistrarUbicacion(request:Request):
     dat = await request.body()
-    logger.info(f"registro ubicacion: {dat}")    
+    logger.info(f"registro ubicacion: {dat}")
+    
 # @router.post("/terminar")
 # async def terminar(payload: TerminarPayload,db: AsyncSession = Depends(get_db)):
 
