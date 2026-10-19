@@ -58,6 +58,15 @@ async def ObtieneVersionDisponible(request:Request):
     dat = await request.body()
     logger.info(f"datos de actulizacion: {dat}")
 
+@router.post("/ActualizarEstadoGPSDispositivo")
+async def ActualizarEstadoGPSDispositivo(request:Request):
+    dat = await request.body()
+    logger.info(f"coordendas de dispositivo: {dat}")
+
+@router.post("/RegistrarUbicacion")
+async def RegistrarUbicacion(request:Request):
+    dat = await request.body()
+    logger.info(f"registro ubicacion: {dat}")
 # @router.post("/terminar")
 # async def terminar(payload: TerminarPayload,db: AsyncSession = Depends(get_db)):
 
