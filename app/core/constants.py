@@ -102,5 +102,11 @@ class LDS:
         (
             "INSPECCION",
             "/inspeccion/registrar/suministro"
+        ),
+    "/usuario":
+        (
+            "GENERAL",
+            "usuario"
         )
+    
     }
