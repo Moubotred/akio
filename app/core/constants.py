@@ -93,6 +93,37 @@ class LDS:
             "CONFIGURACION",
             "configuracion/suministro"
         ),
+        
+    "/conf/suministro":
+        (
+            "CONFIGURACION",
+            "configuracion/suministro"
+        ),
+
+    "/conf/llave":
+        (
+            "CONFIGURACION",
+            "configuracion/llave"
+        ),
+
+    "/conf/poste":
+        (
+            "CONFIGURACION",
+            "configuracion/poste"
+        ),
+
+    "/conf/cajatoma":
+        (
+            "CONFIGURACION",
+            "configuracion/cajatoma"
+        ),
+
+    "/conf/valida/foto":
+        (
+            "CONFIGURACION",
+            "configuracion/valida/foto"
+        ),
+    
     "/ObtenerTipoDocumentoPorAtencion":
         (
             "ARCHIVO",
