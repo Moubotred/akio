@@ -82,13 +82,10 @@ ROUTES = {
           "val_foto.json",
 
     "/tecnicoii/GesManmtoBT/BTInspeccion.svc/configuracion/cajatoma":
-          "conf_cajatoma",
+          "conf_cajatoma.json",
 
     "/tecnicoii/GesManmtoBT/BTInspeccion.svc/configuracion/poste":
-          "conf_poste"
-
-
-
+          "conf_poste.json",
 }
 
 
