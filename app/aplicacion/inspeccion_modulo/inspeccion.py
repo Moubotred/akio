@@ -49,10 +49,7 @@ async def tipofotos(
     request: Request,
     db: AsyncSession = Depends(get_db)
 ):
-    payload = await request.json()
-
     pass
-
 
     # return await Inspeccion_service.obtener_suministro(
     #     db=db,
