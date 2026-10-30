@@ -1,6 +1,8 @@
 # app/aplicacion/configuracion_modulo/_repository.py
 from app.core.proxy import Proxy_service
+from app.core.logger import get_logger
 
+logger = get_logger("proxy_service")
 
 class ConfiguracionRepository:
 
