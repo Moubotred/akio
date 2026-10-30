@@ -9,6 +9,7 @@
 *.key
 *.cfg
 .env
+.sh
 .env.*
 !.env.example
 
