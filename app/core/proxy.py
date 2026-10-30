@@ -25,10 +25,7 @@ class ProxyService:
         )
 
         try:
-
             state_data = response
-
-
         except Exception as e:
             logger.warning(f"[-] La conexion fallo : {e}")
             state_data =  response
