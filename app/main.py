@@ -5,14 +5,11 @@ from fastapi.middleware.cors import CORSMiddleware
 from fastapi.staticfiles import StaticFiles
 
 from pathlib import Path
-
 import redis.asyncio as aioredis
 
 from app.core.database import engine
 from app.core.base import Base
-
 from app.core.exceptions import AppException
-
 from app.frontend.router import frontend_router
 from app.backend.router import backend as backend_router
 from app.aplicacion.router import aplicacion as app_route
