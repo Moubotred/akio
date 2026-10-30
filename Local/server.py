@@ -63,7 +63,7 @@ ROUTES = {
     "/tecnicoii/GesManmtoBT/BTInspeccion.svc/configuracion/suministro":
          "conf_suministro.json",
 
-    "/tecnicoii/GesManmtoBT/BTInspeccion.svc/activo/poste/gradocorrosion":
+    "/tecnicoii/GesManmtoBT/BTInspeccion.svc/activo/poste/gradocorrocion":
          "gradocorrosion.json",
     
     "/tecnicoii/GesManmtoBT/BTInspeccion.svc/usuario":
@@ -76,7 +76,7 @@ ROUTES = {
           "cajatoma.json",
 
     "/tecnicoii/GesManmtoBT/BTInspeccion.svc/configuracion/llave":
-          "llave.json",
+          "conf_llave.json",
 
     "/tecnicoii/GesManmtoBT/BTInspeccion.svc/configuracion/valida/foto":
           "val_foto.json",
@@ -86,6 +86,7 @@ ROUTES = {
 
     "/tecnicoii/GesManmtoBT/BTInspeccion.svc/configuracion/poste":
           "conf_poste.json",
+
 }
 
 
