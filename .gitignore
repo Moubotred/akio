@@ -8,8 +8,8 @@
 *.crt
 *.key
 *.cfg
+*.sh
 .env
-.sh
 .env.*
 !.env.example
 
