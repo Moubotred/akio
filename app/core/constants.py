@@ -132,14 +132,18 @@ class LDS:
     "/regis/suministro":
         (
             "INSPECCION",
-            "/inspeccion/registrar/suministro"
+            "inspeccion/registrar/suministro"
         ),
     "/poste/gradocorrosion":
         (
             "ACTIVO",
             "poste/gradocorrocion"
         ),
-
+    "/tipofotos":
+        (
+            "INSPECCION",
+            "inspeccion/tipofotos"
+        ),
     "/usuario":
         (
             "GENERAL",
