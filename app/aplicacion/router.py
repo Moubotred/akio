@@ -32,7 +32,7 @@ aplicacion.include_router(aplicacion_Inpeccion)
 # =====================================================
 # Endpoint secundarios de com.*.bt.inspecciones.ui
 # =====================================================
-aplicacion.include_router(sub_router_atencion)
+# aplicacion.include_router(sub_router_atencion)
 aplicacion.include_router(sub_router_mapa)
 aplicacion.include_router(sub_router_general)
 aplicacion.include_router(sub_router_configuracion)
