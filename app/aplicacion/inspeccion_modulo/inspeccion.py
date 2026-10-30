@@ -34,19 +34,3 @@ async def suministro(
     #     headers=dict(request.headers),
     #     payload=payload
     # )
-
-
-@router.post("/tipofotos")
-async def tipofotos(
-    request: Request,
-    db: AsyncSession = Depends(get_db),
-    payload: dict = Body(default={}),
-):
-    headers_server = dict(request.headers)
-    headers_user = Lds_client.sanitize_headers(headers_server)
-    data = await Inspeccion_service.obtener_suministro(
-        db=db,
-        headers=dict(request.headers),
-        payload=payload
-    )
-    return JSONResponse(data,200,headers_user)
