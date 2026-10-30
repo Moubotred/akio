@@ -55,6 +55,4 @@ class ProxyService:
             logger.warning(f"[-] Error en proxy streaming: {e}")
             raise e
 
-
-
 Proxy_service = ProxyService()
